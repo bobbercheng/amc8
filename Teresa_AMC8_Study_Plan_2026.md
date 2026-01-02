@@ -41,7 +41,7 @@
 ## 📚 MATERIALS NEEDED
 
 **Required:**
-- [ ] AMC 8 Past Tests (2018-2022) - [Free online](https://artofproblemsolving.com/wiki/index.php/AMC_8_Problems_and_Solutions)
+- [ ] AMC 8 Past Tests (2018-2023, excluding 2021) - [Free online](https://artofproblemsolving.com/wiki/index.php/AMC_8_Problems_and_Solutions)
 - [ ] Pencils, eraser, scratch paper
 - [ ] Timer/stopwatch
 - [ ] Calculator (for checking work, not during timed tests)
@@ -86,7 +86,7 @@
 2. ✅ **Solve with scratch work** - Show every step
 3. ✅ **Verify answer** - Does it make sense? Can you plug it back in?
 
-**Practice:** Do 10 problems from AMC 8 2021 or 2022 (Problems 1-10)
+**Practice:** Do 10 problems from AMC 8 2022 or 2023 (Problems 1-10)
 - Use the 3-Check System on each problem
 - Track results: ___/10 correct
 - Review any mistakes immediately
@@ -129,7 +129,7 @@
 - After changes: (3x-3):(x+5) = 4:1... (solve)
 
 #### Part 3: Timed Practice (30 min)
-**Do 8 ratio/proportion problems from AMC 8 2019-2022:**
+**Do 8 ratio/proportion problems from AMC 8 2019-2023 (excluding 2021):**
 - Simple ratios (2 problems)
 - Changing ratios (3 problems)
 - Multi-step proportions (3 problems)
@@ -168,7 +168,7 @@
 - Distance between points
 - Perimeter calculations
 
-**Sources:** AMC 8 2018-2022, Problems 10-15 range
+**Sources:** AMC 8 2018-2023 (excluding 2021), Problems 10-15 range
 
 **Critical strategy:** ALWAYS draw a diagram first! (Even if one is provided)
 
@@ -397,7 +397,7 @@ P(event) = favorable outcomes / total outcomes
 #### Part 3: Practice Set (20 min)
 **Do 5-6 basic-to-medium probability problems**
 - Focus on AMC 8-style (not competition-level hard)
-- Sources: AMC 8 2017-2021, probability problems
+- Sources: AMC 8 2017-2022 (excluding 2021), probability problems
 
 **Goal:** Build intuition, not master all cases
 
@@ -467,7 +467,7 @@ P(event) = favorable outcomes / total outcomes
 **🎯 Goal:** Execute full strategy under pressure, aim for 18-20/25
 
 #### Part 1: Full Timed Test (40 min)
-**Take AMC 8 2019 or 2021** (whichever not used yet)
+**Take AMC 8 2019 or 2022** (whichever not used yet)
 
 **STRICT 40-minute timer - No pauses!**
 
@@ -518,7 +518,7 @@ P(event) = favorable outcomes / total outcomes
 ## Hour 1: Practice Test #3 (60 min)
 
 ### Part 1: Full AMC 8 Under Competition Conditions (40 min)
-**Use AMC 8 2018** (or any remaining year from 2017-2022)
+**Use AMC 8 2018** (or any remaining year from 2017-2023, excluding 2021)
 
 **Simulate REAL test environment:**
 - [ ] Quiet room, no interruptions
@@ -559,7 +559,7 @@ P(event) = favorable outcomes / total outcomes
 - Careless errors: _______
 - Concept gaps: _______
 
-**AMC 8 2019/2021 (Day 10):**
+**AMC 8 2019/2022 (Day 10):**
 - Careless errors: _______
 - Concept gaps: _______
 
@@ -737,7 +737,7 @@ TOTAL:          18-20 / 25 = 72-80% ✓
 |------|------|-------|---------------|----------------|----------------|-------|
 | **Baseline 2024** | 2024 | 16/25 | 10/13 | 4/5 | 2/7 | Starting point |
 | **AMC 8 2020** | Jan 9 | ___/25 | ___/13 | ___/5 | ___/7 | |
-| **AMC 8 2019/2021** | Jan 16 | ___/25 | ___/13 | ___/5 | ___/7 | |
+| **AMC 8 2019/2022** | Jan 16 | ___/25 | ___/13 | ___/5 | ___/7 | |
 | **AMC 8 2018** | Jan 18 | ___/25 | ___/13 | ___/5 | ___/7 | |
 | **COMPETITION** | Jan 22-28 | ___/25 | ___/13 | ___/5 | ___/7 | 🎯 |
 
