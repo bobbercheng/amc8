@@ -130,9 +130,9 @@
 
 #### Part 3: Timed Practice (30 min)
 **Do 8 ratio/proportion problems from AMC 8 2019-2023 (excluding 2021):**
-- Simple ratios (2 problems)
-- Changing ratios (3 problems)
-- Multi-step proportions (3 problems)
+*   **2022:** #6, #7, #15, #21, #22
+*   **2023:** #5, #10
+*   **2019:** #1 (or any from 1-10 range)
 
 **Time limit:** 20 minutes
 **Score:** ___/8
