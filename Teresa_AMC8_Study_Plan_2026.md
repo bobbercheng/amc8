@@ -163,20 +163,23 @@
 - **Key formula:** distance = rate × time (d = rt)
 
 #### Part 2: Coordinate Geometry Practice (20 min)
-**Do 5-6 problems involving:**
+**Practice problems from [2019 AMC 8](problems/2019_AMC_8_Problems.md) and [2022 AMC 8](problems/2022_AMC_8_Problems.md):**
+*   **2022 Problem 18:** Area of a rectangle using midpoints on a coordinate plane.
+*   **2019 Problem 21:** Area of a triangle formed by three lines (y=5, y=1+x, y=1-x).
+*   **2019 Problem 6:** Grid points and lines of symmetry.
+
+**Focus on:**
 - Finding areas of triangles/rectangles on coordinate plane
 - Distance between points
 - Perimeter calculations
 
-**Sources:** AMC 8 2018-2023 (excluding 2021), Problems 10-15 range
-
 **Critical strategy:** ALWAYS draw a diagram first! (Even if one is provided)
 
 #### Part 3: Speed/Distance/Rate Problems (20 min)
-**Practice 4-5 problems:**
-- Basic speed calculations
-- Multiple rates (like detour problems)
-- Time/distance relationships
+**Practice problems from [2022 AMC 8](problems/2022_AMC_8_Problems.md):**
+*   **Problem 7:** Download speed and time calculation
+*   **Problem 10:** Distance-time graph interpretation
+*   **Problem 22:** Complex speed/distance challenge (Bus vs. Walking)
 
 **Formula to memorize:**
 - d = rt
