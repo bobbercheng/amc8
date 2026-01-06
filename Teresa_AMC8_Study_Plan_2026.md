@@ -216,13 +216,17 @@
 - Walk through solution
 
 #### Part 3: Systematic Counting Practice (30 min)
-**Do 6-8 problems:**
-- Patterns in sequences/tables
-- Counting paths/arrangements
-- Process of elimination problems
+**Practice problems from [2019 AMC 8](problems/2019_AMC_8_Problems.md) and [2022 AMC 8](problems/2022_AMC_8_Problems.md):**
+*   **2022 Problem 3:** Finding combinations of $a < b < c$ where $abc=100$. (Systematic listing)
+*   **2022 Problem 14:** Rearranging BEEKEEPER so no two Es are together. (Arrangement constraints)
+*   **2022 Problem 23:** Counting triangle/circle configurations in a 3x3 grid. (Grid patterns)
+*   **2019 Problem 13:** Counting 3-digit integers that are sums of palindromes. (Digit constraints)
+*   **2019 Problem 25:** Sharing 24 apples between 3 people with at least 2 each. (Distribution counting)
 
-**Key strategy:** "Make a smaller version first"
-- Example: Test with 3×3 grid before tackling 20×20
+**Key strategies to use:**
+1.  **Systematic Listing:** Write out possibilities in an organized way (e.g., start with the smallest number) to avoid skipping or double-counting.
+2.  **"Make a smaller version first":** Test the logic with a smaller version (like a 2x2 grid) before tackling the full problem.
+3.  **Complementary Counting:** Sometimes it's easier to count the "bad" cases and subtract from the total.
 
 **Sources:** AMC 8 counting problems (NOT advanced combinatorics)
 
