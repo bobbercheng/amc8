@@ -263,12 +263,28 @@
 - Guess intelligently on rest
 - **NO BLANKS!**
 
+#####  Answer for 2020_AMC_8
+**Score: 12/25**
+
+| Problem | Answer | Problem | Answer | Problem | Answer |
+|---------|--------|---------|--------|---------|--------|
+| 1 | E | 10 | C | 19 | ~~E~~ (B) |
+| 2 | C | 11 | E | 20 | ~~A~~ (B) |
+| 3 | D | 12 | ~~B~~ (A) | 21 | ~~E~~ (A) |
+| 4 | B | 13 | B | 22 | E |
+| 5 | C | 14 | ~~C~~ (D) | 23 | ~~E~~ (B) |
+| 6 | A | 15 | ~~D~~ (C) | 24 | ~~C~~ (A) |
+| 7 | C | 16 | ~~C~~ (E) | 25 | ~~B~~ (A) |
+| 8 | C | 17 | ~~A~~ (B) | | |
+| 9 | ~~E~~ (D) | 18 | ~~D~~ (A) | | |
+
+
 #### Part 2: Scoring & Quick Debrief (20 min)
 **Score the test:**
-- Problems 1-13: ___/13
-- Problems 14-18: ___/5
-- Problems 19-25: ___/7
-- **TOTAL: ___/25**
+- Problems 1-13: 11/13
+- Problems 14-18: 0/5
+- Problems 19-25: 1/7
+- **TOTAL: 12/25**
 
 **Analysis:**
 1. Careless errors fixed? (Should have 12-13/13 on Problems 1-13)
@@ -743,7 +759,7 @@ TOTAL:          18-20 / 25 = 72-80% ✓
 | Test | Date | Score | Problems 1-13 | Problems 14-18 | Problems 19-25 | Notes |
 |------|------|-------|---------------|----------------|----------------|-------|
 | **Baseline 2024** | 2024 | 16/25 | 10/13 | 4/5 | 2/7 | Starting point |
-| **AMC 8 2020** | Jan 9 | ___/25 | ___/13 | ___/5 | ___/7 | |
+| **AMC 8 2020** | Jan 9 | 12/25 | 11/13 | 0/5 | 1/7 | Focus on Pass 2 strategy |
 | **AMC 8 2019/2022** | Jan 16 | ___/25 | ___/13 | ___/5 | ___/7 | |
 | **AMC 8 2018** | Jan 18 | ___/25 | ___/13 | ___/5 | ___/7 | |
 | **COMPETITION** | Jan 22-28 | ___/25 | ___/13 | ___/5 | ___/7 | 🎯 |
