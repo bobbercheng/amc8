@@ -308,68 +308,46 @@
 
 **Day 5 Results:** Teresa scored 12/25 (48%) - BUT she was in a LOUD community center with interruptions!
 
-**Redo Results:** When Teresa redid the wrong problems in a quiet environment, she fixed 4 problems:
+**Redo Results:** When Teresa redid the wrong problems in a quiet environment, she fixed **5 problems:**
 - ✅ Problem 12 (factorials)
 - ✅ Problem 14 (bar chart)
+- ✅ **Problem 15 (percentage equations)** ← She DOES understand this!
 - ✅ Problem 19 (flippy numbers - HARD problem!)
 - ✅ Problem 20 (tree heights - HARD problem!)
 
-**Adjusted realistic score:** 16-17/25 (64-68%) ← Back to baseline!
+**Adjusted realistic score:** **17/25 (68%)** ← ABOVE baseline!
+
+**Breakdown:**
+- Problems 1-13: 12/13 (92%)
+- Problems 14-18: 2/5 (40%)
+- Problems 19-25: 3/7 (43%)
 
 **KEY LESSON:** Environment matters HUGELY! Teresa can solve medium AND hard problems when focused.
 
-**Only 2-3 fixable concept gaps identified:**
-1. Problem 15 - Percentage equations (she inverts the fraction)
-2. Problem 17 - Prime factorization method
-3. Problem 16/18 - Logic puzzles / advanced geometry (lower priority)
+**Only ONE critical gap remains:**
+1. ✅ ~~Problem 15 (percentages)~~ - **FIXED on redo!**
+2. ❌ **Problem 17 - Prime factorization method** ← Only gap to teach!
+3. Problems 16/18 - Logic puzzles / advanced geometry (lower priority)
 
 **ACTION ITEMS FOR WEEK 2:**
 - ✅ **CRITICAL:** Ensure quiet, focused environment for ALL tests (Day 10, Weekend)
-- ✅ Day 6: Teach percentage equations + prime factorization (30 min each)
+- ✅ Day 6: Teach prime factorization (25 min) + practice medium problems (35 min)
 - ✅ Day 7-9: Practice and confidence building
 - ✅ Day 10: Full test in QUIET space (expect 18-20/25)
 
-**Revised confidence in 80% goal:** 70% (up from 50%) 🎯
+**Revised confidence in 80% goal:** **80%** (up from 50%) 🎯
 
 ---
 
 ## Day 6 - Friday, January 10
-### **Targeted Gap Fixing - Problems 15 & 17** (60 min)
+### **Prime Factorization + Medium Problem Practice** (60 min)
 
-**🎯 Goal:** Fix the 2 specific concept gaps identified from Day 5 redo
+**🎯 Goal:** Fix the ONE remaining concept gap + build confidence on medium problems
 
-**NOTE:** Teresa scored 12/25 on Day 5 due to LOUD environment with interruptions. When she redid problems in quiet space, her adjusted score was 16-17/25! Only 2-3 fixable gaps remain.
+**🎉 GREAT NEWS:** Teresa scored 17/25 (68%) when adjusted for environment! She fixed FIVE problems on redo, including Problem 15 (percentages) - she DOES understand percentage equations! Only ONE gap remains.
 
-#### Part 1: Percentage Equations Deep Dive (25 min)
-**Fix Problem 15 - Teresa keeps inverting the fraction**
-
-**Teach the method:**
-1. **Problem 15 setup:** "15% of x equals 20% of y. What % of x is y?"
-   - Write equation: 0.15x = 0.2y
-   - Solve for y in terms of x: y = (0.15/0.2)x
-   - Simplify: y = (15/20)x = (3/4)x = 0.75x
-   - Therefore: y is **75% of x** → Answer: C
-
-2. **Why Teresa chose D (133⅓%):**
-   - She calculated (0.2/0.15) = 1.333...
-   - This answers "what % of y is x?" (the REVERSE)
-   - Common mistake: inverting the reference value
-
-3. **The trick:**
-   - Question asks: "What % of **x** is y?"
-   - So solve for y = ___% of **x**
-   - Always solve for the variable they're asking about!
-
-**Practice 6-8 similar problems:**
-- "12% of a equals 16% of b, what % of a is b?" (Answer: 75%)
-- "25% of p equals 30% of q, what % of p is q?" (Answer: 83⅓%)
-- "18% of m equals 24% of n, what % of n is m?" (Answer: 133⅓%)
-- Mix up which variable they're asking about
-
-**Must get 6/8 correct before moving on!**
-
-#### Part 2: Number Theory - Prime Factorization (25 min)
-**Fix Problem 17 - Teach the systematic method**
+#### Part 1: Number Theory - Prime Factorization (25 min)
+**Fix Problem 17 - The ONLY critical gap remaining**
 
 **Teach the method:**
 1. **Prime factorization of 2020:**
@@ -406,16 +384,42 @@
 - How many factors of 100 have more than 3 factors?
 - Find all factors of 180 that have exactly 4 factors
 
-#### Part 3: Review and Confidence Building (10 min)
-**Celebrate the wins from Day 5 redo:**
+#### Part 2: Medium Problem Practice - Build Speed & Confidence (25 min)
+**Practice 8-10 problems from the 11-16 range**
+
+**Sources:** AMC 8 2019, 2022, 2023 (Problems 11-16)
+
+**Focus areas:**
+- Bar charts and data interpretation (Teresa can do these!)
+- Percentage problems (she fixed #15 on redo!)
+- Logic puzzles and systematic counting
+- Basic number theory
+
+**Goal:** 6-8/10 correct (60-80%)
+
+**Strategy:**
+- Use 3-Check System
+- Apply 2-Minute Rule (don't get stuck)
+- Build confidence by seeing success
+
+#### Part 3: Celebrate BIG WINS from Day 5 Redo! (10 min)
+**Teresa fixed FIVE problems - not four!**
 - ✅ Fixed Problem 12 (factorials)
-- ✅ Fixed Problem 14 (bar chart) - just needed quiet environment!
-- ✅ Fixed Problem 19 (flippy numbers) - hard problem!
-- ✅ Fixed Problem 20 (tree heights) - hard problem!
+- ✅ Fixed Problem 14 (bar chart)
+- ✅ **Fixed Problem 15 (percentage equations)** - She DOES understand this!
+- ✅ Fixed Problem 19 (flippy numbers - HARD problem!)
+- ✅ Fixed Problem 20 (tree heights - HARD problem!)
 
-**Key message:** "You CAN solve medium AND hard problems! You just need quiet focus and to fix these 2 concept gaps. Then you're at 80%!"
+**Adjusted score with redo:** **17/25 (68%)** ← ABOVE baseline!
 
-**Adjusted score with redo:** 16-17/25 (64-68%) ← Back to baseline!
+**Key message:** "You're at 68%! You fixed 5 problems on redo! You only need 3 MORE points to hit 80%. You've got this!"
+
+**Path to 80%:**
+```
+Current:  17/25 (68%)
+Needed:   20/25 (80%)
+Gap:      Only 3 more problems!
+```
 
 ---
 
