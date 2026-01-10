@@ -304,42 +304,118 @@
 
 **Goal:** Reach 18-20/25 through smart test-taking + targeted skill building
 
+## 🚨 CRITICAL UPDATE FROM DAY 5
+
+**Day 5 Results:** Teresa scored 12/25 (48%) - BUT she was in a LOUD community center with interruptions!
+
+**Redo Results:** When Teresa redid the wrong problems in a quiet environment, she fixed 4 problems:
+- ✅ Problem 12 (factorials)
+- ✅ Problem 14 (bar chart)
+- ✅ Problem 19 (flippy numbers - HARD problem!)
+- ✅ Problem 20 (tree heights - HARD problem!)
+
+**Adjusted realistic score:** 16-17/25 (64-68%) ← Back to baseline!
+
+**KEY LESSON:** Environment matters HUGELY! Teresa can solve medium AND hard problems when focused.
+
+**Only 2-3 fixable concept gaps identified:**
+1. Problem 15 - Percentage equations (she inverts the fraction)
+2. Problem 17 - Prime factorization method
+3. Problem 16/18 - Logic puzzles / advanced geometry (lower priority)
+
+**ACTION ITEMS FOR WEEK 2:**
+- ✅ **CRITICAL:** Ensure quiet, focused environment for ALL tests (Day 10, Weekend)
+- ✅ Day 6: Teach percentage equations + prime factorization (30 min each)
+- ✅ Day 7-9: Practice and confidence building
+- ✅ Day 10: Full test in QUIET space (expect 18-20/25)
+
+**Revised confidence in 80% goal:** 70% (up from 50%) 🎯
+
 ---
 
 ## Day 6 - Friday, January 10
-### **Practice Test #1 Review + Optimization** (60 min)
+### **Targeted Gap Fixing - Problems 15 & 17** (60 min)
 
-#### Part 1: Deep Review of Wednesday's Test (30 min)
-**Go through EVERY mistake on AMC 8 2020**
+**🎯 Goal:** Fix the 2 specific concept gaps identified from Day 5 redo
 
-**Categorize each error:**
+**NOTE:** Teresa scored 12/25 on Day 5 due to LOUD environment with interruptions. When she redid problems in quiet space, her adjusted score was 16-17/25! Only 2-3 fixable gaps remain.
 
-| Problem # | Answer | Correct | Error Type |
-|-----------|--------|---------|------------|
-| | | | ❌ Careless / ⚠️ Rushed / ❓ Don't Know |
-| | | | |
-| | | | |
+#### Part 1: Percentage Equations Deep Dive (25 min)
+**Fix Problem 15 - Teresa keeps inverting the fraction**
 
-**Error Types:**
-- ❌ **Careless:** Knew how to solve, made silly mistake
-- ⚠️ **Rushed:** Ran out of time or didn't read carefully
-- ❓ **Don't know:** Genuinely didn't know the concept
+**Teach the method:**
+1. **Problem 15 setup:** "15% of x equals 20% of y. What % of x is y?"
+   - Write equation: 0.15x = 0.2y
+   - Solve for y in terms of x: y = (0.15/0.2)x
+   - Simplify: y = (15/20)x = (3/4)x = 0.75x
+   - Therefore: y is **75% of x** → Answer: C
 
-#### Part 2: Targeted Practice (25 min)
-**Based on error analysis, practice 5-6 problems in weak areas**
+2. **Why Teresa chose D (133⅓%):**
+   - She calculated (0.2/0.15) = 1.333...
+   - This answers "what % of y is x?" (the REVERSE)
+   - Common mistake: inverting the reference value
 
-Examples:
-- If missed 2 geometry → Do 5 more geometry problems
-- If missed ratios → Do 5 more ratio problems
-- If made careless errors → Slow down, practice 3-Check System
+3. **The trick:**
+   - Question asks: "What % of **x** is y?"
+   - So solve for y = ___% of **x**
+   - Always solve for the variable they're asking about!
 
-#### Part 3: Time Management Refinement (5 min)
-**Review the 3-Pass Strategy - Did Teresa follow it?**
+**Practice 6-8 similar problems:**
+- "12% of a equals 16% of b, what % of a is b?" (Answer: 75%)
+- "25% of p equals 30% of q, what % of p is q?" (Answer: 83⅓%)
+- "18% of m equals 24% of n, what % of n is m?" (Answer: 133⅓%)
+- Mix up which variable they're asking about
 
-**Adjust if needed:**
-- Too slow on 1-13? → Speed drills needed
-- Stuck on 14-18? → Learn to skip and return
-- Left blanks? → Practice guessing strategies
+**Must get 6/8 correct before moving on!**
+
+#### Part 2: Number Theory - Prime Factorization (25 min)
+**Fix Problem 17 - Teach the systematic method**
+
+**Teach the method:**
+1. **Prime factorization of 2020:**
+   - 2020 ÷ 2 = 1010
+   - 1010 ÷ 2 = 505
+   - 505 ÷ 5 = 101 (101 is prime)
+   - **2020 = 2² × 5 × 101**
+
+2. **List ALL factors systematically:**
+   - 1, 2, 4, 5, 10, 20, 101, 202, 404, 505, 1010, 2020
+
+3. **For each factor, count HOW MANY factors it has:**
+   - 1: {1} = 1 factor ❌
+   - 2: {1,2} = 2 factors ❌
+   - 4: {1,2,4} = 3 factors ❌
+   - 5: {1,5} = 2 factors ❌
+   - 10: {1,2,5,10} = 4 factors ✓
+   - 20: {1,2,4,5,10,20} = 6 factors ✓
+   - 101: {1,101} = 2 factors ❌
+   - 202: {1,2,101,202} = 4 factors ✓
+   - 404: {1,2,4,101,202,404} = 6 factors ✓
+   - 505: {1,5,101,505} = 4 factors ✓
+   - 1010: {1,2,5,10,101,202,505,1010} = 8 factors ✓
+   - 2020: many factors ✓
+   - **Answer: 7 factors have more than 3 factors → B**
+
+**Shortcut to remember:**
+- Primes (2, 5, 101) have exactly 2 factors → exclude
+- Prime squares (4 = 2²) have exactly 3 factors → exclude
+- Everything else has >3 factors!
+
+**Practice 3-4 similar problems:**
+- How many factors of 360 have more than 3 factors?
+- How many factors of 100 have more than 3 factors?
+- Find all factors of 180 that have exactly 4 factors
+
+#### Part 3: Review and Confidence Building (10 min)
+**Celebrate the wins from Day 5 redo:**
+- ✅ Fixed Problem 12 (factorials)
+- ✅ Fixed Problem 14 (bar chart) - just needed quiet environment!
+- ✅ Fixed Problem 19 (flippy numbers) - hard problem!
+- ✅ Fixed Problem 20 (tree heights) - hard problem!
+
+**Key message:** "You CAN solve medium AND hard problems! You just need quiet focus and to fix these 2 concept gaps. Then you're at 80%!"
+
+**Adjusted score with redo:** 16-17/25 (64-68%) ← Back to baseline!
 
 ---
 
