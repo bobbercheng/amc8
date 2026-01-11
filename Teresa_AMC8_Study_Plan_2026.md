@@ -263,12 +263,28 @@
 - Guess intelligently on rest
 - **NO BLANKS!**
 
+#####  Answer for 2020_AMC_8
+**Score: 12/25**
+
+| Problem | Answer | Problem | Answer | Problem | Answer |
+|---------|--------|---------|--------|---------|--------|
+| 1 | E | 10 | C | 19 | ~~E~~ (B) |
+| 2 | C | 11 | E | 20 | ~~A~~ (B) |
+| 3 | D | 12 | ~~B~~ (A) | 21 | ~~E~~ (A) |
+| 4 | B | 13 | B | 22 | E |
+| 5 | C | 14 | ~~C~~ (D) | 23 | ~~E~~ (B) |
+| 6 | A | 15 | ~~D~~ (C) | 24 | ~~C~~ (A) |
+| 7 | C | 16 | ~~C~~ (E) | 25 | ~~B~~ (A) |
+| 8 | C | 17 | ~~A~~ (B) | | |
+| 9 | ~~E~~ (D) | 18 | ~~D~~ (A) | | |
+
+
 #### Part 2: Scoring & Quick Debrief (20 min)
 **Score the test:**
-- Problems 1-13: ___/13
-- Problems 14-18: ___/5
-- Problems 19-25: ___/7
-- **TOTAL: ___/25**
+- Problems 1-13: 11/13
+- Problems 14-18: 0/5
+- Problems 19-25: 1/7
+- **TOTAL: 12/25**
 
 **Analysis:**
 1. Careless errors fixed? (Should have 12-13/13 on Problems 1-13)
@@ -288,42 +304,122 @@
 
 **Goal:** Reach 18-20/25 through smart test-taking + targeted skill building
 
+## 🚨 CRITICAL UPDATE FROM DAY 5
+
+**Day 5 Results:** Teresa scored 12/25 (48%) - BUT she was in a LOUD community center with interruptions!
+
+**Redo Results:** When Teresa redid the wrong problems in a quiet environment, she fixed **5 problems:**
+- ✅ Problem 12 (factorials)
+- ✅ Problem 14 (bar chart)
+- ✅ **Problem 15 (percentage equations)** ← She DOES understand this!
+- ✅ Problem 19 (flippy numbers - HARD problem!)
+- ✅ Problem 20 (tree heights - HARD problem!)
+
+**Adjusted realistic score:** **17/25 (68%)** ← ABOVE baseline!
+
+**Breakdown:**
+- Problems 1-13: 12/13 (92%)
+- Problems 14-18: 2/5 (40%)
+- Problems 19-25: 3/7 (43%)
+
+**KEY LESSON:** Environment matters HUGELY! Teresa can solve medium AND hard problems when focused.
+
+**Only ONE critical gap remains:**
+1. ✅ ~~Problem 15 (percentages)~~ - **FIXED on redo!**
+2. ❌ **Problem 17 - Prime factorization method** ← Only gap to teach!
+3. Problems 16/18 - Logic puzzles / advanced geometry (lower priority)
+
+**ACTION ITEMS FOR WEEK 2:**
+- ✅ **CRITICAL:** Ensure quiet, focused environment for ALL tests (Day 10, Weekend)
+- ✅ Day 6: Teach prime factorization (25 min) + practice medium problems (35 min)
+- ✅ Day 7-9: Practice and confidence building
+- ✅ Day 10: Full test in QUIET space (expect 18-20/25)
+
+**Revised confidence in 80% goal:** **80%** (up from 50%) 🎯
+
 ---
 
 ## Day 6 - Friday, January 10
-### **Practice Test #1 Review + Optimization** (60 min)
+### **Prime Factorization + Medium Problem Practice** (60 min)
 
-#### Part 1: Deep Review of Wednesday's Test (30 min)
-**Go through EVERY mistake on AMC 8 2020**
+**🎯 Goal:** Fix the ONE remaining concept gap + build confidence on medium problems
 
-**Categorize each error:**
+**🎉 GREAT NEWS:** Teresa scored 17/25 (68%) when adjusted for environment! She fixed FIVE problems on redo, including Problem 15 (percentages) - she DOES understand percentage equations! Only ONE gap remains.
 
-| Problem # | Answer | Correct | Error Type |
-|-----------|--------|---------|------------|
-| | | | ❌ Careless / ⚠️ Rushed / ❓ Don't Know |
-| | | | |
-| | | | |
+#### Part 1: Number Theory - Prime Factorization (25 min)
+**Fix Problem 17 - The ONLY critical gap remaining**
 
-**Error Types:**
-- ❌ **Careless:** Knew how to solve, made silly mistake
-- ⚠️ **Rushed:** Ran out of time or didn't read carefully
-- ❓ **Don't know:** Genuinely didn't know the concept
+**Teach the method:**
+1. **Prime factorization of 2020:**
+   - 2020 ÷ 2 = 1010
+   - 1010 ÷ 2 = 505
+   - 505 ÷ 5 = 101 (101 is prime)
+   - **2020 = 2² × 5 × 101**
 
-#### Part 2: Targeted Practice (25 min)
-**Based on error analysis, practice 5-6 problems in weak areas**
+2. **List ALL factors systematically:**
+   - 1, 2, 4, 5, 10, 20, 101, 202, 404, 505, 1010, 2020
 
-Examples:
-- If missed 2 geometry → Do 5 more geometry problems
-- If missed ratios → Do 5 more ratio problems
-- If made careless errors → Slow down, practice 3-Check System
+3. **For each factor, count HOW MANY factors it has:**
+   - 1: {1} = 1 factor ❌
+   - 2: {1,2} = 2 factors ❌
+   - 4: {1,2,4} = 3 factors ❌
+   - 5: {1,5} = 2 factors ❌
+   - 10: {1,2,5,10} = 4 factors ✓
+   - 20: {1,2,4,5,10,20} = 6 factors ✓
+   - 101: {1,101} = 2 factors ❌
+   - 202: {1,2,101,202} = 4 factors ✓
+   - 404: {1,2,4,101,202,404} = 6 factors ✓
+   - 505: {1,5,101,505} = 4 factors ✓
+   - 1010: {1,2,5,10,101,202,505,1010} = 8 factors ✓
+   - 2020: many factors ✓
+   - **Answer: 7 factors have more than 3 factors → B**
 
-#### Part 3: Time Management Refinement (5 min)
-**Review the 3-Pass Strategy - Did Teresa follow it?**
+**Shortcut to remember:**
+- Primes (2, 5, 101) have exactly 2 factors → exclude
+- Prime squares (4 = 2²) have exactly 3 factors → exclude
+- Everything else has >3 factors!
 
-**Adjust if needed:**
-- Too slow on 1-13? → Speed drills needed
-- Stuck on 14-18? → Learn to skip and return
-- Left blanks? → Practice guessing strategies
+**Practice 3-4 similar problems:**
+- How many factors of 360 have more than 3 factors?
+- How many factors of 100 have more than 3 factors?
+- Find all factors of 180 that have exactly 4 factors
+
+#### Part 2: Medium Problem Practice - Build Speed & Confidence (25 min)
+**Practice 8-10 problems from the 11-16 range**
+
+**Sources:** AMC 8 2019, 2022, 2023 (Problems 11-16)
+
+**Focus areas:**
+- Bar charts and data interpretation (Teresa can do these!)
+- Percentage problems (she fixed #15 on redo!)
+- Logic puzzles and systematic counting
+- Basic number theory
+
+**Goal:** 6-8/10 correct (60-80%)
+
+**Strategy:**
+- Use 3-Check System
+- Apply 2-Minute Rule (don't get stuck)
+- Build confidence by seeing success
+
+#### Part 3: Celebrate BIG WINS from Day 5 Redo! (10 min)
+**Teresa fixed FIVE problems - not four!**
+- ✅ Fixed Problem 12 (factorials)
+- ✅ Fixed Problem 14 (bar chart)
+- ✅ **Fixed Problem 15 (percentage equations)** - She DOES understand this!
+- ✅ Fixed Problem 19 (flippy numbers - HARD problem!)
+- ✅ Fixed Problem 20 (tree heights - HARD problem!)
+
+**Adjusted score with redo:** **17/25 (68%)** ← ABOVE baseline!
+
+**Key message:** "You're at 68%! You fixed 5 problems on redo! You only need 3 MORE points to hit 80%. You've got this!"
+
+**Path to 80%:**
+```
+Current:  17/25 (68%)
+Needed:   20/25 (80%)
+Gap:      Only 3 more problems!
+```
 
 ---
 
@@ -743,7 +839,7 @@ TOTAL:          18-20 / 25 = 72-80% ✓
 | Test | Date | Score | Problems 1-13 | Problems 14-18 | Problems 19-25 | Notes |
 |------|------|-------|---------------|----------------|----------------|-------|
 | **Baseline 2024** | 2024 | 16/25 | 10/13 | 4/5 | 2/7 | Starting point |
-| **AMC 8 2020** | Jan 9 | ___/25 | ___/13 | ___/5 | ___/7 | |
+| **AMC 8 2020** | Jan 9 | 12/25 | 11/13 | 0/5 | 1/7 | Focus on Pass 2 strategy |
 | **AMC 8 2019/2022** | Jan 16 | ___/25 | ___/13 | ___/5 | ___/7 | |
 | **AMC 8 2018** | Jan 18 | ___/25 | ___/13 | ___/5 | ___/7 | |
 | **COMPETITION** | Jan 22-28 | ___/25 | ___/13 | ___/5 | ___/7 | 🎯 |
