@@ -424,45 +424,53 @@ Gap:      Only 3 more problems!
 ---
 
 ## Day 7 - Monday, January 13
-### **Medium-Hard Problem Workshop** (60 min)
+### **Advanced Medium Problems & Challenge Set** (60 min)
 
-**🎯 Goal:** Master 2-3 more problem types in the 14-20 range
+**🎯 Goal:** Push Teresa into the 17-20 range with fresh problems
 
-#### Part 1: Optimization Problems (20 min)
-**Study 2023 Problem 14** (stamps for $7.10)
-- Teresa chose B, correct is E (55 stamps)
-- **Key strategy:** Work backwards from constraints
-  - Need $7.10 = 710 cents
-  - Maximize # of stamps → use smallest denominations
-  - 20× 5¢ + 20× 10¢ + 15× 25¢ = 100+200+375 = 675... adjust
+**🎉 UPDATE:** Teresa crushed Day 6! She completed problems 11-16 from AMC 8 2019, 2022, 2023 and only missed 2019 #16. She's ready for harder material!
 
-**Practice 2 similar optimization problems**
+#### Part 1: Review 2019 Problem 16 (10 min)
+**The only one she missed from Day 6:**
+- Study the logic puzzle approach
+- Identify where her reasoning went wrong
+- Practice systematic constraint checking
 
-**Key insight:** Guess-and-check is OK when done systematically!
+**Key strategy:** For complex logic puzzles, write down ALL constraints first, then test systematically
 
-#### Part 2: Statistics Basics (20 min)
-**Study 2023 Problem 20** (mode, median, range)
-- Teresa chose A, correct is D
-- Quick review:
-  - **Mode:** Most frequent value
-  - **Median:** Middle value when sorted
-  - **Range:** Maximum - minimum
+#### Part 2: Fresh Medium-Hard Problems from 2018 (25 min)
+**Practice problems 14-18 from AMC 8 2018:**
+- These are FRESH problems Teresa hasn't seen
+- Mix of: data interpretation, logic, geometry, number theory
+- **Time limit:** 15 minutes for 5 problems
+- **Goal:** 3-4/5 correct
 
-**Practice 3-4 statistics problems from AMC 8 past tests**
+**Why 2018:**
+- Haven't used this year yet (saved for weekend intensive)
+- Good difficulty level
+- Variety of problem types
 
-**This is an easy concept** - should be a quick win!
+#### Part 3: Challenge Problems from Hard Section (20 min)
+**Teresa can solve hard problems - let's prove it!**
 
-#### Part 3: Number Theory Shortcuts (20 min)
-**Study 2024 Problem 15** (FLYFLY = 8 × BUGBUG)
-- Teresa chose D, correct is C
-- **Key:** Look for patterns
-  - ABCABC = 1001 × ABC
-  - So: 1001 × FLY = 8 × 1001 × BUG
-  - Therefore: FLY = 8 × BUG
+**Do problems 19-20 from AMC 8 2018:**
+- She got 2019 #19, #20 and 2020 #19, #20, #22 correct on redo
+- These are within her reach!
+- **Strategy:** Use 2-Minute Rule - if stuck, move to next one
 
-**Practice 2-3 number pattern/digit problems**
+**Then try ONE problem 21-22 from 2018:**
+- Pick the one that looks most approachable
+- Goal: Build confidence that she CAN attempt hard problems
+- Even if she doesn't get it, she learns the approach
 
-**Strategy:** Try simple examples first, then scale up
+#### Part 4: Pattern Recognition Exercise (5 min)
+**Reflection activity:**
+"What patterns did you notice today?"
+- Are certain problem types easier for you?
+- What strategies worked best?
+- Which problems felt similar to ones you've solved before?
+
+**This builds meta-cognition** - understanding HOW she solves problems, not just solving them
 
 ---
 
