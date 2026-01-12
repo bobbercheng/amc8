@@ -423,7 +423,7 @@ Gap:      Only 3 more problems!
 
 ---
 
-## Day 7 - Monday, January 13
+## Day 7 - Monday, January 12
 ### **Advanced Medium Problems & Challenge Set** (60 min)
 
 **🎯 Goal:** Push Teresa into the 17-20 range with fresh problems
