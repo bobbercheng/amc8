@@ -567,13 +567,32 @@ Day 7 showed Teresa got **100% on hard problems (#19, #20, #22)** but missed Pro
 - Topic: Similar triangles, parallel lines, area ratios
 - **Why did Teresa succeed?** She understands proportional reasoning!
 
-**Build on this strength:**
-1. Review the solution method she used
-2. Practice 2-3 similar problems from 2019, 2022, 2023
-3. **Key patterns to reinforce:**
-   - Parallel lines create similar triangles
-   - Similar triangles have proportional sides
-   - Area ratios = (side ratio)²
+**Practice these specific problems (in order):**
+
+1. **2023 Problem 19** (10 min) - **START HERE!**
+   - Nested equilateral triangles with trapezoids between them
+   - Inner triangle side = (2/3) × outer triangle side
+   - Find ratio of trapezoid area to inner triangle area
+   - **Topics**: Similar triangles, area ratios, proportional relationships
+   - Answer: C (5:12)
+
+2. **2019 Problem 24** (if time permits)
+   - Triangle ABC with point D dividing AC (ratio 1:2), E midpoint of BD
+   - Given area △ABC = 360, find area of △EBF
+   - **Topics**: Similar triangles, area ratios, proportional segments
+   - Answer: B (30)
+
+3. **2023 Problem 24** (if time permits)
+   - Isosceles triangle with parallel segments, equal shaded areas
+   - Unshaded heights: 11 and 5 units
+   - Find height h of △ABC
+   - **Topics**: Similar triangles, parallel lines, area relationships
+   - Answer: A (14.6)
+
+**Key patterns to reinforce:**
+- Parallel lines create similar triangles
+- Similar triangles have proportional sides
+- Area ratios = (side ratio)²
 
 **Why this matters:**
 - Similar problems appear frequently
