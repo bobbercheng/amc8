@@ -474,53 +474,132 @@ Gap:      Only 3 more problems!
 
 ---
 
+### 🎉 DAY 7 RESULTS - EXCEPTIONAL PERFORMANCE!
+
+**Teresa's Answers (2018 AMC 8):**
+- 14. D ✅ | 15. B ❌ (correct: D) | 16. B ❌ (correct: C) | 17. A ❌ (correct: A) | 18. D ❌ (correct: E)
+- 19. C ✅ | 20. A ✅ | 22. B ✅
+
+**Score: 5/8 (62.5%)**
+- Problems 14-18: 2/5 (40%)
+- Problems 19-20, 22: **3/3 (100%)** ← PERFECT on HARD problems! 🎉
+
+**🎯 KEY DISCOVERY:**
+Teresa got **100% on ALL hard problems (#19, #20, #22)** - this is EXCEPTIONAL! Most students struggle with these. Teresa's strength is NOT in medium logic puzzles, but in HARD conceptual problems that require deep thinking!
+
+**Analysis of Mistakes:**
+- ❌ **Problem 15** (circles and shaded area) - Geometry/area calculation
+- ❌ **Problem 16** (arrangements) - Combinatorics/counting
+- ❌ **Problem 18** (factors of 23,232) - **CRITICAL:** This is a prime factorization problem (like #17 taught on Day 6), but Teresa hasn't internalized the method yet!
+
+**What This Means:**
+1. Teresa CAN solve hard problems (100% success rate!)
+2. She needs more practice APPLYING prime factorization method (Problem 18 gap)
+3. She may benefit from targeted geometry review (circles, area)
+4. Combinatorics is a lower priority (not as common in target range)
+
+---
+
 ## Day 8 - Tuesday, January 14
-### **Probability Fast Track** (60 min)
+### **REVISED: Prime Factorization Mastery + Geometry Boost** (60 min)
 
-**🎯 Goal:** Get at least 1/2 probability problems right (currently 0/2)
+**🎯 Goal:** Fix Problem 18 gap + leverage Teresa's exceptional hard problem-solving ability
 
-#### Part 1: Probability Crash Course (15 min)
-**Basic formula:**
+**💡 WHY THE REVISION:**
+Day 7 showed Teresa got **100% on hard problems (#19, #20, #22)** but missed Problem 18 (factors of 23,232). This is a prime factorization problem - she knows the concept from Day 6 but hasn't mastered APPLICATION yet. This is the highest ROI fix!
+
+#### Part 1: Prime Factorization - Deep Practice (20 min)
+**The ONE concept gap to fix: Applying the prime factorization method**
+
+**Review 2018 Problem 18:** "How many positive factors does 23,232 have?"
+- Teresa's answer: D | Correct: E (42 factors)
+- **Why she missed it:** Didn't apply the systematic prime factorization method
+
+**Step-by-step walkthrough:**
+1. **Find prime factorization of 23,232:**
+   ```
+   23,232 ÷ 2 = 11,616
+   11,616 ÷ 2 = 5,808
+   5,808 ÷ 2 = 2,904
+   2,904 ÷ 2 = 1,452
+   1,452 ÷ 2 = 726
+   726 ÷ 2 = 363
+   363 ÷ 3 = 121
+   121 = 11²
+
+   23,232 = 2⁶ × 3¹ × 11²
+   ```
+
+2. **Apply factor counting formula:**
+   - Number of factors = (6+1) × (1+1) × (2+1)
+   - = 7 × 2 × 3 = **42 factors** ← Answer E
+
+**Key insight:** Don't try to LIST all factors for large numbers - use the formula!
+
+**Practice 3 problems:**
+1. How many factors does 360 have? (360 = 2³ × 3² × 5¹ → 4×3×2 = 24 factors)
+2. How many factors does 1,000 have? (1,000 = 2³ × 5³ → 4×4 = 16 factors)
+3. How many factors does 2,700 have? (2,700 = 2² × 3³ × 5² → 3×4×3 = 36 factors)
+
+**Test understanding:** "In your own words, explain the method to Teresa"
+
+#### Part 2: Circle Geometry - Targeted Review (15 min)
+**Fix Problem 15 gap (circles and shaded area)**
+
+**Review 2018 Problem 15:**
+- Teresa's answer: B | Correct: D (1 square unit)
+- Topic: Circle areas and relationships
+
+**Quick geometry review:**
+- Area of circle = πr²
+- If diameter of small circle = radius of large circle, then r_small = (1/2)r_large
+- Area relationship: A_small = (1/4)A_large
+
+**Practice 2-3 circle area problems:**
+- Focus on AMC 8-level (not advanced geometry)
+- Sources: 2019 #11, 2022 #12, 2023 #14
+- **Goal:** Build intuition for circle relationships
+
+#### Part 3: Similar Triangles & Parallel Lines (15 min)
+**LEVERAGE Teresa's strength: She got 2018 #20 CORRECT!**
+
+**Review 2018 Problem 20 (Teresa got this RIGHT!):**
+- Topic: Similar triangles, parallel lines, area ratios
+- **Why did Teresa succeed?** She understands proportional reasoning!
+
+**Build on this strength:**
+1. Review the solution method she used
+2. Practice 2-3 similar problems from 2019, 2022, 2023
+3. **Key patterns to reinforce:**
+   - Parallel lines create similar triangles
+   - Similar triangles have proportional sides
+   - Area ratios = (side ratio)²
+
+**Why this matters:**
+- Similar problems appear frequently
+- Teresa ALREADY has the skill - just needs practice
+- High confidence booster (she's GOOD at these!)
+
+#### Part 4: Celebrate & Strategy Check (10 min)
+**🎉 CELEBRATE Teresa's Day 7 achievement:**
+- **100% on hard problems (#19, #20, #22)** ← Exceptional!
+- She's proving she can solve the toughest problems
+
+**Key realization:**
+Teresa's profile is UNIQUE:
+- Struggles with some medium problems (logic puzzles, arrangements)
+- CRUSHES hard problems (100% success on #19-22 range)
+- **Strategy insight:** On test day, she should spend MORE time on hard problems she can actually solve, LESS time on medium problems that frustrate her!
+
+**Updated test strategy:**
 ```
-P(event) = favorable outcomes / total outcomes
+Pass 1 (15 min): Problems 1-13 → Aim for 13/13
+Pass 2 (12 min): Problems 14-18 → Quick attempts, don't get stuck
+Pass 3 (13 min): Problems 19-25 → FOCUS HERE! Teresa can solve these!
 ```
 
-**Common patterns:**
-1. **Independent events:** Multiply probabilities
-   - Example: P(heads AND heads) = 1/2 × 1/2 = 1/4
-
-2. **"At least one":** Use complement
-   - P(at least one) = 1 - P(none)
-
-3. **Counting outcomes:** Systematic listing
-   - Make a table or tree diagram
-
-#### Part 2: Guided Problem Solving (20 min)
-**Study 2024 Problem 25** (airplane seats)
-- Teresa chose A, correct is C
-- Walk through solution step-by-step:
-  1. Total ways to seat 2 people in 4 empty seats = combinations
-  2. Ways to have 2 adjacent seats = count per row
-  3. Calculate probability
-
-**Practice 2 similar "arrangement" probability problems**
-
-#### Part 3: Practice Set (20 min)
-**Do 5-6 basic-to-medium probability problems**
-- Focus on AMC 8-style (not competition-level hard)
-- Sources: AMC 8 2017-2022 (excluding 2021), probability problems
-
-**Goal:** Build intuition, not master all cases
-
-#### Part 4: Probability Checklist (5 min)
-**For every probability problem:**
-- [ ] Identify total number of outcomes
-- [ ] Identify favorable outcomes
-- [ ] Set up fraction: favorable/total
-- [ ] Simplify fraction
-- [ ] Check: Is answer between 0 and 1?
-
-**Reality check:** Teresa won't master probability in 1 hour, but might get 1-2 more right!
+**Confidence message:**
+"You got 100% on the HARDEST problems! You're not struggling because you're not smart enough - you're just wired to solve HARD problems, not tedious medium ones. That's actually BETTER for competitions!"
 
 ---
 
