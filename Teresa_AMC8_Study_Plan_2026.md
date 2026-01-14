@@ -623,83 +623,114 @@ Pass 3 (13 min): Problems 19-25 → FOCUS HERE! Teresa can solve these!
 ---
 
 ## Day 9 - Wednesday, January 15
-### **Strategic Guessing & Problem Triage** (60 min)
+### **REVISED: Hard Problems Workshop + Smart Triage** (60 min)
 
-**🎯 Goal:** Maximize points when you don't know everything
+**🎯 Goal:** Leverage Teresa's unique strength (hard problems) + develop smart skipping strategy for frustrating medium problems
 
-#### Part 1: The Art of Strategic Guessing (20 min)
-**Golden Rule:** NEVER leave a blank! (No penalty for wrong answers)
+**💡 WHY THE REVISION:**
+Day 7 proved Teresa got **100% on hard problems (#19, #20, #22)**! She's WIRED to solve hard conceptual problems. Day 9 should build on this strength, NOT teach her to skip hard problems!
 
-**Elimination Strategy:**
-1. Cross out obviously wrong answers
-2. Look for patterns in answer choices
-   - If 4 choices are small, 1 is huge → probably not the huge one
-   - If 4 choices are similar, 1 is different → check the different one
-3. Use estimation
-   - Example: If calculating area ≈ 50, eliminate choices like 200 or 5
+#### Part 1: Hard Problem Practice - Problems 21-25 (25 min)
+**The NEW Reality:** Teresa CAN solve hard problems! She got 100% on Day 7's hard problems.
 
-**Practice:** Take 5 hard problems Teresa would normally skip
-- For each: Eliminate 2-3 choices, then guess
-- **Don't solve!** Just practice the elimination skill
+**Practice Problems 21-25 from AMC 8 2019:**
+- **Problem 21** (area of triangle from three lines) - 6 min
+- **Problem 22** (percent increase/decrease) - 6 min
+- **Problem 23** (basketball scoring fractions) - 6 min
+- **Problem 24** (triangle area ratios - Teresa's strength!) - 5 min
+- **Problem 25** (sharing apples distribution) - 2 min to read
 
-#### Part 2: The 2-Minute Rule (20 min)
-**Practice with 10 mixed problems:**
+**Strategy for hard problems:**
+1. **Read carefully** - these problems have complex setups
+2. **Draw diagrams** for geometry problems
+3. **Set up equations** for algebra/proportion problems
+4. **Take your time** - you CAN solve these!
+5. **Don't give up** - if you got stuck on Day 7's #19, #20, #22, you'd have missed them!
 
-**For each problem:**
-1. Read carefully (30 seconds)
-2. If you know how to start → Solve (max 2 min total)
-3. If you're stuck → Eliminate bad answers, guess, MOVE ON
+**Goal:** Get 2-3/5 correct by SOLVING, not guessing
 
-**Goal:** Don't get bogged down on any single problem
+**Key message:** "You're BETTER at hard problems than medium ones. Spend MORE time here!"
 
-**Time total:** Should finish all 10 in 20 minutes max
+#### Part 2: Smart Triage - Know What to Skip (20 min)
+**Teresa's REAL weakness:** Tedious medium logic puzzles and arrangements (like 2018 #16)
 
-#### Part 3: Final Pass Strategy for Problems 21-25 (20 min)
-**The Reality:** Problems 21-25 are HARD. Teresa doesn't need to master them.
+**Identify YOUR "skip problems":**
+Review these problem types Teresa has struggled with:
+- Complex logic puzzles with constraints (2019 #16, 2018 #16)
+- Combinatorics with arrangements (BEEKEEPER-type problems)
+- Problems with lots of case-checking
+
+**Practice the 30-Second Decision:**
+Look at 10 mixed problems from 2019 (problems 11-20):
+- For each: Read for 30 seconds
+- Decide: "This is MY type of problem" (attempt) or "This is tedious" (skip/guess)
+- **Don't solve** - just practice the triage decision
 
 **Strategy:**
-1. **Quick read** all 5 problems (2 min)
-2. **Pick 1-2** that seem most doable
-3. **Spend 3-4 min** on those problems only
-4. **Guess intelligently** on the rest using elimination
+- Teresa's strengths: Proportions, geometry, hard conceptual problems
+- Teresa can skip: Tedious logic, complex arrangements, excessive case-checking
+- **Save time on tedious problems to spend MORE on hard problems!**
 
-**Practice:** Use AMC 8 2019 Problems 21-25
-- Set timer for 10 minutes
-- Apply strategy above
-- Score: ___/5 (Goal: 2-3 correct through combination of solving + lucky guessing)
+#### Part 3: Strategic Guessing for Skipped Problems (15 min)
+**Golden Rule:** NEVER leave a blank! (No penalty for wrong answers)
+
+**Elimination Strategy for problems you skip:**
+1. Cross out obviously wrong answers
+2. Use estimation
+   - Example: If calculating area ≈ 50, eliminate choices like 200 or 5
+3. Look for patterns in answer choices
+   - If 4 choices are small, 1 is huge → probably not the huge one
+
+**Practice:** Take 5 medium logic problems Teresa would skip:
+- 2022 #16 (number pattern)
+- 2019 #14 (calendar logic)
+- 2018 #16 (arrangements)
+- For each: Eliminate 2-3 choices in 30 seconds, then guess
+- **Goal:** Make smart guesses FAST, then move to problems you CAN solve
+
+**Time-Saving Insight:**
+If Teresa spends 1 min instead of 3 min on tedious problems, she saves 2 min × 2-3 problems = **4-6 minutes** to spend on hard problems where she EXCELS!
 
 ---
 
 ## Day 10 - Thursday, January 16
 ### **PRACTICE TEST #2** (60 min)
 
-**🎯 Goal:** Execute full strategy under pressure, aim for 18-20/25
+**🎯 Goal:** Execute TERESA'S strategy under pressure, aim for 18-20/25
 
 #### Part 1: Full Timed Test (40 min)
 **Take AMC 8 2019 or 2022** (whichever not used yet)
 
 **STRICT 40-minute timer - No pauses!**
 
-**Apply EVERYTHING learned:**
+**Apply TERESA'S PERSONALIZED STRATEGY:**
 - ✅ 3-Check System on Problems 1-13
-- ✅ 2-Minute Rule on Problems 14-20
-- ✅ Strategic guessing on Problems 21-25
-- ✅ NO BLANKS - guess if you must!
+- ✅ Quick triage on Problems 14-18 (skip tedious ones!)
+- ✅ FOCUS on Problems 19-25 (this is where Teresa excels!)
+- ✅ NO BLANKS - guess on skipped problems
 
-**3-Pass Strategy:**
-- **Pass 1 (15 min):** Problems 1-13 → Aim for 12-13/13
-- **Pass 2 (15 min):** Problems 14-20 → Attempt all, get 4-5/7
-- **Pass 3 (10 min):** Problems 21-25 → Strategic attempts, get 2-3/5
+**REVISED 3-Pass Strategy for Teresa:**
+- **Pass 1 (15 min):** Problems 1-13 → Aim for 13/13
+- **Pass 2 (12 min):** Problems 14-18 → Quick attempts, skip tedious logic puzzles
+- **Pass 3 (13 min):** Problems 19-25 → FOCUS HERE! Attempt all hard problems
+
+**Why this strategy works for Teresa:**
+She got 100% on hard problems (Day 7: #19, #20, #22). She needs MORE time on problems 19-25, NOT less!
 
 #### Part 2: Immediate Debrief (20 min)
 **Score the test:**
 
 | Section | Score | Goal | Met Goal? |
 |---------|-------|------|-----------|
-| Problems 1-13 | ___/13 | 12-13 | ✅ / ❌ |
-| Problems 14-18 | ___/5 | 3-4 | ✅ / ❌ |
-| Problems 19-25 | ___/7 | 2-3 | ✅ / ❌ |
+| Problems 1-13 | ___/13 | 13/13 | ✅ / ❌ |
+| Problems 14-18 | ___/5 | 2-3 | ✅ / ❌ |
+| Problems 19-25 | ___/7 | 3-4 | ✅ / ❌ |
 | **TOTAL** | **___/25** | **18-20** | ✅ / ❌ |
+
+**NOTE:** Teresa's goals are DIFFERENT from typical students:
+- Higher expectations on hard problems (19-25): 3-4 correct, not 2-3
+- Lower expectations on medium problems (14-18): 2-3 correct, not 3-4
+- This matches her actual performance profile!
 
 **Quick reflection:**
 1. Time management: Did you finish? _______
