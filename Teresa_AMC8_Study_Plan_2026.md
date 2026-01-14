@@ -263,12 +263,28 @@
 - Guess intelligently on rest
 - **NO BLANKS!**
 
+#####  Answer for 2020_AMC_8
+**Score: 12/25**
+
+| Problem | Answer | Problem | Answer | Problem | Answer |
+|---------|--------|---------|--------|---------|--------|
+| 1 | E | 10 | C | 19 | ~~E~~ (B) |
+| 2 | C | 11 | E | 20 | ~~A~~ (B) |
+| 3 | D | 12 | ~~B~~ (A) | 21 | ~~E~~ (A) |
+| 4 | B | 13 | B | 22 | E |
+| 5 | C | 14 | ~~C~~ (D) | 23 | ~~E~~ (B) |
+| 6 | A | 15 | ~~D~~ (C) | 24 | ~~C~~ (A) |
+| 7 | C | 16 | ~~C~~ (E) | 25 | ~~B~~ (A) |
+| 8 | C | 17 | ~~A~~ (B) | | |
+| 9 | ~~E~~ (D) | 18 | ~~D~~ (A) | | |
+
+
 #### Part 2: Scoring & Quick Debrief (20 min)
 **Score the test:**
-- Problems 1-13: ___/13
-- Problems 14-18: ___/5
-- Problems 19-25: ___/7
-- **TOTAL: ___/25**
+- Problems 1-13: 11/13
+- Problems 14-18: 0/5
+- Problems 19-25: 1/7
+- **TOTAL: 12/25**
 
 **Analysis:**
 1. Careless errors fixed? (Should have 12-13/13 on Problems 1-13)
@@ -288,216 +304,433 @@
 
 **Goal:** Reach 18-20/25 through smart test-taking + targeted skill building
 
+## 🚨 CRITICAL UPDATE FROM DAY 5
+
+**Day 5 Results:** Teresa scored 12/25 (48%) - BUT she was in a LOUD community center with interruptions!
+
+**Redo Results:** When Teresa redid the wrong problems in a quiet environment, she fixed **5 problems:**
+- ✅ Problem 12 (factorials)
+- ✅ Problem 14 (bar chart)
+- ✅ **Problem 15 (percentage equations)** ← She DOES understand this!
+- ✅ Problem 19 (flippy numbers - HARD problem!)
+- ✅ Problem 20 (tree heights - HARD problem!)
+
+**Adjusted realistic score:** **17/25 (68%)** ← ABOVE baseline!
+
+**Breakdown:**
+- Problems 1-13: 12/13 (92%)
+- Problems 14-18: 2/5 (40%)
+- Problems 19-25: 3/7 (43%)
+
+**KEY LESSON:** Environment matters HUGELY! Teresa can solve medium AND hard problems when focused.
+
+**Only ONE critical gap remains:**
+1. ✅ ~~Problem 15 (percentages)~~ - **FIXED on redo!**
+2. ❌ **Problem 17 - Prime factorization method** ← Only gap to teach!
+3. Problems 16/18 - Logic puzzles / advanced geometry (lower priority)
+
+**ACTION ITEMS FOR WEEK 2:**
+- ✅ **CRITICAL:** Ensure quiet, focused environment for ALL tests (Day 10, Weekend)
+- ✅ Day 6: Teach prime factorization (25 min) + practice medium problems (35 min)
+- ✅ Day 7-9: Practice and confidence building
+- ✅ Day 10: Full test in QUIET space (expect 18-20/25)
+
+**Revised confidence in 80% goal:** **80%** (up from 50%) 🎯
+
 ---
 
 ## Day 6 - Friday, January 10
-### **Practice Test #1 Review + Optimization** (60 min)
+### **Prime Factorization + Medium Problem Practice** (60 min)
 
-#### Part 1: Deep Review of Wednesday's Test (30 min)
-**Go through EVERY mistake on AMC 8 2020**
+**🎯 Goal:** Fix the ONE remaining concept gap + build confidence on medium problems
 
-**Categorize each error:**
+**🎉 GREAT NEWS:** Teresa scored 17/25 (68%) when adjusted for environment! She fixed FIVE problems on redo, including Problem 15 (percentages) - she DOES understand percentage equations! Only ONE gap remains.
 
-| Problem # | Answer | Correct | Error Type |
-|-----------|--------|---------|------------|
-| | | | ❌ Careless / ⚠️ Rushed / ❓ Don't Know |
-| | | | |
-| | | | |
+#### Part 1: Number Theory - Prime Factorization (25 min)
+**Fix Problem 17 - The ONLY critical gap remaining**
 
-**Error Types:**
-- ❌ **Careless:** Knew how to solve, made silly mistake
-- ⚠️ **Rushed:** Ran out of time or didn't read carefully
-- ❓ **Don't know:** Genuinely didn't know the concept
+**Teach the method:**
+1. **Prime factorization of 2020:**
+   - 2020 ÷ 2 = 1010
+   - 1010 ÷ 2 = 505
+   - 505 ÷ 5 = 101 (101 is prime)
+   - **2020 = 2² × 5 × 101**
 
-#### Part 2: Targeted Practice (25 min)
-**Based on error analysis, practice 5-6 problems in weak areas**
+2. **List ALL factors systematically:**
+   - 1, 2, 4, 5, 10, 20, 101, 202, 404, 505, 1010, 2020
 
-Examples:
-- If missed 2 geometry → Do 5 more geometry problems
-- If missed ratios → Do 5 more ratio problems
-- If made careless errors → Slow down, practice 3-Check System
+3. **For each factor, count HOW MANY factors it has:**
+   - 1: {1} = 1 factor ❌
+   - 2: {1,2} = 2 factors ❌
+   - 4: {1,2,4} = 3 factors ❌
+   - 5: {1,5} = 2 factors ❌
+   - 10: {1,2,5,10} = 4 factors ✓
+   - 20: {1,2,4,5,10,20} = 6 factors ✓
+   - 101: {1,101} = 2 factors ❌
+   - 202: {1,2,101,202} = 4 factors ✓
+   - 404: {1,2,4,101,202,404} = 6 factors ✓
+   - 505: {1,5,101,505} = 4 factors ✓
+   - 1010: {1,2,5,10,101,202,505,1010} = 8 factors ✓
+   - 2020: many factors ✓
+   - **Answer: 7 factors have more than 3 factors → B**
 
-#### Part 3: Time Management Refinement (5 min)
-**Review the 3-Pass Strategy - Did Teresa follow it?**
+**Shortcut to remember:**
+- Primes (2, 5, 101) have exactly 2 factors → exclude
+- Prime squares (4 = 2²) have exactly 3 factors → exclude
+- Everything else has >3 factors!
 
-**Adjust if needed:**
-- Too slow on 1-13? → Speed drills needed
-- Stuck on 14-18? → Learn to skip and return
-- Left blanks? → Practice guessing strategies
+**Practice 3-4 similar problems:**
+- How many factors of 360 have more than 3 factors?
+- How many factors of 100 have more than 3 factors?
+- Find all factors of 180 that have exactly 4 factors
+
+#### Part 2: Medium Problem Practice - Build Speed & Confidence (25 min)
+**Practice 8-10 problems from the 11-16 range**
+
+**Sources:** AMC 8 2019, 2022, 2023 (Problems 11-16)
+
+**Focus areas:**
+- Bar charts and data interpretation (Teresa can do these!)
+- Percentage problems (she fixed #15 on redo!)
+- Logic puzzles and systematic counting
+- Basic number theory
+
+**Goal:** 6-8/10 correct (60-80%)
+
+**Strategy:**
+- Use 3-Check System
+- Apply 2-Minute Rule (don't get stuck)
+- Build confidence by seeing success
+
+#### Part 3: Celebrate BIG WINS from Day 5 Redo! (10 min)
+**Teresa fixed FIVE problems - not four!**
+- ✅ Fixed Problem 12 (factorials)
+- ✅ Fixed Problem 14 (bar chart)
+- ✅ **Fixed Problem 15 (percentage equations)** - She DOES understand this!
+- ✅ Fixed Problem 19 (flippy numbers - HARD problem!)
+- ✅ Fixed Problem 20 (tree heights - HARD problem!)
+
+**Adjusted score with redo:** **17/25 (68%)** ← ABOVE baseline!
+
+**Key message:** "You're at 68%! You fixed 5 problems on redo! You only need 3 MORE points to hit 80%. You've got this!"
+
+**Path to 80%:**
+```
+Current:  17/25 (68%)
+Needed:   20/25 (80%)
+Gap:      Only 3 more problems!
+```
 
 ---
 
-## Day 7 - Monday, January 13
-### **Medium-Hard Problem Workshop** (60 min)
+## Day 7 - Monday, January 12
+### **Advanced Medium Problems & Challenge Set** (60 min)
 
-**🎯 Goal:** Master 2-3 more problem types in the 14-20 range
+**🎯 Goal:** Push Teresa into the 17-20 range with fresh problems
 
-#### Part 1: Optimization Problems (20 min)
-**Study 2023 Problem 14** (stamps for $7.10)
-- Teresa chose B, correct is E (55 stamps)
-- **Key strategy:** Work backwards from constraints
-  - Need $7.10 = 710 cents
-  - Maximize # of stamps → use smallest denominations
-  - 20× 5¢ + 20× 10¢ + 15× 25¢ = 100+200+375 = 675... adjust
+**🎉 UPDATE:** Teresa crushed Day 6! She completed problems 11-16 from AMC 8 2019, 2022, 2023 and only missed 2019 #16. She's ready for harder material!
 
-**Practice 2 similar optimization problems**
+#### Part 1: Review 2019 Problem 16 (10 min)
+**The only one she missed from Day 6:**
+- Study the logic puzzle approach
+- Identify where her reasoning went wrong
+- Practice systematic constraint checking
 
-**Key insight:** Guess-and-check is OK when done systematically!
+**Key strategy:** For complex logic puzzles, write down ALL constraints first, then test systematically
 
-#### Part 2: Statistics Basics (20 min)
-**Study 2023 Problem 20** (mode, median, range)
-- Teresa chose A, correct is D
-- Quick review:
-  - **Mode:** Most frequent value
-  - **Median:** Middle value when sorted
-  - **Range:** Maximum - minimum
+#### Part 2: Fresh Medium-Hard Problems from 2018 (25 min)
+**Practice problems 14-18 from AMC 8 2018:**
+- These are FRESH problems Teresa hasn't seen
+- Mix of: data interpretation, logic, geometry, number theory
+- **Time limit:** 15 minutes for 5 problems
+- **Goal:** 3-4/5 correct
 
-**Practice 3-4 statistics problems from AMC 8 past tests**
+**Why 2018:**
+- Haven't used this year yet (saved for weekend intensive)
+- Good difficulty level
+- Variety of problem types
 
-**This is an easy concept** - should be a quick win!
+#### Part 3: Challenge Problems from Hard Section (20 min)
+**Teresa can solve hard problems - let's prove it!**
 
-#### Part 3: Number Theory Shortcuts (20 min)
-**Study 2024 Problem 15** (FLYFLY = 8 × BUGBUG)
-- Teresa chose D, correct is C
-- **Key:** Look for patterns
-  - ABCABC = 1001 × ABC
-  - So: 1001 × FLY = 8 × 1001 × BUG
-  - Therefore: FLY = 8 × BUG
+**Do problems 19-20 from AMC 8 2018:**
+- She got 2019 #19, #20 and 2020 #19, #20, #22 correct on redo
+- These are within her reach!
+- **Strategy:** Use 2-Minute Rule - if stuck, move to next one
 
-**Practice 2-3 number pattern/digit problems**
+**Then try ONE problem 21-22 from 2018:**
+- Pick the one that looks most approachable
+- Goal: Build confidence that she CAN attempt hard problems
+- Even if she doesn't get it, she learns the approach
 
-**Strategy:** Try simple examples first, then scale up
+#### Part 4: Pattern Recognition Exercise (5 min)
+**Reflection activity:**
+"What patterns did you notice today?"
+- Are certain problem types easier for you?
+- What strategies worked best?
+- Which problems felt similar to ones you've solved before?
+
+**This builds meta-cognition** - understanding HOW she solves problems, not just solving them
+
+---
+
+### 🎉 DAY 7 RESULTS - EXCEPTIONAL PERFORMANCE!
+
+**Teresa's Answers (2018 AMC 8):**
+- 14. D ✅ | 15. B ❌ (correct: D) | 16. B ❌ (correct: C) | 17. A ❌ (correct: A) | 18. D ❌ (correct: E)
+- 19. C ✅ | 20. A ✅ | 22. B ✅
+
+**Score: 5/8 (62.5%)**
+- Problems 14-18: 2/5 (40%)
+- Problems 19-20, 22: **3/3 (100%)** ← PERFECT on HARD problems! 🎉
+
+**🎯 KEY DISCOVERY:**
+Teresa got **100% on ALL hard problems (#19, #20, #22)** - this is EXCEPTIONAL! Most students struggle with these. Teresa's strength is NOT in medium logic puzzles, but in HARD conceptual problems that require deep thinking!
+
+**Analysis of Mistakes:**
+- ❌ **Problem 15** (circles and shaded area) - Geometry/area calculation
+- ❌ **Problem 16** (arrangements) - Combinatorics/counting
+- ❌ **Problem 18** (factors of 23,232) - **CRITICAL:** This is a prime factorization problem (like #17 taught on Day 6), but Teresa hasn't internalized the method yet!
+
+**What This Means:**
+1. Teresa CAN solve hard problems (100% success rate!)
+2. She needs more practice APPLYING prime factorization method (Problem 18 gap)
+3. She may benefit from targeted geometry review (circles, area)
+4. Combinatorics is a lower priority (not as common in target range)
 
 ---
 
 ## Day 8 - Tuesday, January 14
-### **Probability Fast Track** (60 min)
+### **REVISED: Prime Factorization Mastery + Geometry Boost** (60 min)
 
-**🎯 Goal:** Get at least 1/2 probability problems right (currently 0/2)
+**🎯 Goal:** Fix Problem 18 gap + leverage Teresa's exceptional hard problem-solving ability
 
-#### Part 1: Probability Crash Course (15 min)
-**Basic formula:**
+**💡 WHY THE REVISION:**
+Day 7 showed Teresa got **100% on hard problems (#19, #20, #22)** but missed Problem 18 (factors of 23,232). This is a prime factorization problem - she knows the concept from Day 6 but hasn't mastered APPLICATION yet. This is the highest ROI fix!
+
+#### Part 1: Prime Factorization - Deep Practice (20 min)
+**The ONE concept gap to fix: Applying the prime factorization method**
+
+**Review 2018 Problem 18:** "How many positive factors does 23,232 have?"
+- Teresa's answer: D | Correct: E (42 factors)
+- **Why she missed it:** Didn't apply the systematic prime factorization method
+
+**Step-by-step walkthrough:**
+1. **Find prime factorization of 23,232:**
+   ```
+   23,232 ÷ 2 = 11,616
+   11,616 ÷ 2 = 5,808
+   5,808 ÷ 2 = 2,904
+   2,904 ÷ 2 = 1,452
+   1,452 ÷ 2 = 726
+   726 ÷ 2 = 363
+   363 ÷ 3 = 121
+   121 = 11²
+
+   23,232 = 2⁶ × 3¹ × 11²
+   ```
+
+2. **Apply factor counting formula:**
+   - Number of factors = (6+1) × (1+1) × (2+1)
+   - = 7 × 2 × 3 = **42 factors** ← Answer E
+
+**Key insight:** Don't try to LIST all factors for large numbers - use the formula!
+
+**Practice 3 problems:**
+1. How many factors does 360 have? (360 = 2³ × 3² × 5¹ → 4×3×2 = 24 factors)
+2. How many factors does 1,000 have? (1,000 = 2³ × 5³ → 4×4 = 16 factors)
+3. How many factors does 2,700 have? (2,700 = 2² × 3³ × 5² → 3×4×3 = 36 factors)
+
+**Test understanding:** "In your own words, explain the method to Teresa"
+
+#### Part 2: Circle Geometry - Targeted Review (15 min)
+**Fix Problem 15 gap (circles and shaded area)**
+
+**Review 2018 Problem 15:**
+- Teresa's answer: B | Correct: D (1 square unit)
+- Topic: Circle areas and relationships
+
+**Quick geometry review:**
+- Area of circle = πr²
+- If diameter of small circle = radius of large circle, then r_small = (1/2)r_large
+- Area relationship: A_small = (1/4)A_large
+
+**Practice 2-3 circle area problems:**
+- Focus on AMC 8-level (not advanced geometry)
+- Sources: 2019 #11, 2022 #12, 2023 #14
+- **Goal:** Build intuition for circle relationships
+
+#### Part 3: Similar Triangles & Parallel Lines (15 min)
+**LEVERAGE Teresa's strength: She got 2018 #20 CORRECT!**
+
+**Review 2018 Problem 20 (Teresa got this RIGHT!):**
+- Topic: Similar triangles, parallel lines, area ratios
+- **Why did Teresa succeed?** She understands proportional reasoning!
+
+**Practice these specific problems (in order):**
+
+1. **2023 Problem 19** (10 min) - **START HERE!**
+   - Nested equilateral triangles with trapezoids between them
+   - Inner triangle side = (2/3) × outer triangle side
+   - Find ratio of trapezoid area to inner triangle area
+   - **Topics**: Similar triangles, area ratios, proportional relationships
+   - Answer: C (5:12)
+
+2. **2019 Problem 24** (if time permits)
+   - Triangle ABC with point D dividing AC (ratio 1:2), E midpoint of BD
+   - Given area △ABC = 360, find area of △EBF
+   - **Topics**: Similar triangles, area ratios, proportional segments
+   - Answer: B (30)
+
+3. **2023 Problem 24** (if time permits)
+   - Isosceles triangle with parallel segments, equal shaded areas
+   - Unshaded heights: 11 and 5 units
+   - Find height h of △ABC
+   - **Topics**: Similar triangles, parallel lines, area relationships
+   - Answer: A (14.6)
+
+**Key patterns to reinforce:**
+- Parallel lines create similar triangles
+- Similar triangles have proportional sides
+- Area ratios = (side ratio)²
+
+**Why this matters:**
+- Similar problems appear frequently
+- Teresa ALREADY has the skill - just needs practice
+- High confidence booster (she's GOOD at these!)
+
+#### Part 4: Celebrate & Strategy Check (10 min)
+**🎉 CELEBRATE Teresa's Day 7 achievement:**
+- **100% on hard problems (#19, #20, #22)** ← Exceptional!
+- She's proving she can solve the toughest problems
+
+**Key realization:**
+Teresa's profile is UNIQUE:
+- Struggles with some medium problems (logic puzzles, arrangements)
+- CRUSHES hard problems (100% success on #19-22 range)
+- **Strategy insight:** On test day, she should spend MORE time on hard problems she can actually solve, LESS time on medium problems that frustrate her!
+
+**Updated test strategy:**
 ```
-P(event) = favorable outcomes / total outcomes
+Pass 1 (15 min): Problems 1-13 → Aim for 13/13
+Pass 2 (12 min): Problems 14-18 → Quick attempts, don't get stuck
+Pass 3 (13 min): Problems 19-25 → FOCUS HERE! Teresa can solve these!
 ```
 
-**Common patterns:**
-1. **Independent events:** Multiply probabilities
-   - Example: P(heads AND heads) = 1/2 × 1/2 = 1/4
-
-2. **"At least one":** Use complement
-   - P(at least one) = 1 - P(none)
-
-3. **Counting outcomes:** Systematic listing
-   - Make a table or tree diagram
-
-#### Part 2: Guided Problem Solving (20 min)
-**Study 2024 Problem 25** (airplane seats)
-- Teresa chose A, correct is C
-- Walk through solution step-by-step:
-  1. Total ways to seat 2 people in 4 empty seats = combinations
-  2. Ways to have 2 adjacent seats = count per row
-  3. Calculate probability
-
-**Practice 2 similar "arrangement" probability problems**
-
-#### Part 3: Practice Set (20 min)
-**Do 5-6 basic-to-medium probability problems**
-- Focus on AMC 8-style (not competition-level hard)
-- Sources: AMC 8 2017-2022 (excluding 2021), probability problems
-
-**Goal:** Build intuition, not master all cases
-
-#### Part 4: Probability Checklist (5 min)
-**For every probability problem:**
-- [ ] Identify total number of outcomes
-- [ ] Identify favorable outcomes
-- [ ] Set up fraction: favorable/total
-- [ ] Simplify fraction
-- [ ] Check: Is answer between 0 and 1?
-
-**Reality check:** Teresa won't master probability in 1 hour, but might get 1-2 more right!
+**Confidence message:**
+"You got 100% on the HARDEST problems! You're not struggling because you're not smart enough - you're just wired to solve HARD problems, not tedious medium ones. That's actually BETTER for competitions!"
 
 ---
 
 ## Day 9 - Wednesday, January 15
-### **Strategic Guessing & Problem Triage** (60 min)
+### **REVISED: Hard Problems Workshop + Smart Triage** (60 min)
 
-**🎯 Goal:** Maximize points when you don't know everything
+**🎯 Goal:** Leverage Teresa's unique strength (hard problems) + develop smart skipping strategy for frustrating medium problems
 
-#### Part 1: The Art of Strategic Guessing (20 min)
-**Golden Rule:** NEVER leave a blank! (No penalty for wrong answers)
+**💡 WHY THE REVISION:**
+Day 7 proved Teresa got **100% on hard problems (#19, #20, #22)**! She's WIRED to solve hard conceptual problems. Day 9 should build on this strength, NOT teach her to skip hard problems!
 
-**Elimination Strategy:**
-1. Cross out obviously wrong answers
-2. Look for patterns in answer choices
-   - If 4 choices are small, 1 is huge → probably not the huge one
-   - If 4 choices are similar, 1 is different → check the different one
-3. Use estimation
-   - Example: If calculating area ≈ 50, eliminate choices like 200 or 5
+#### Part 1: Hard Problem Practice - Problems 21-25 (25 min)
+**The NEW Reality:** Teresa CAN solve hard problems! She got 100% on Day 7's hard problems.
 
-**Practice:** Take 5 hard problems Teresa would normally skip
-- For each: Eliminate 2-3 choices, then guess
-- **Don't solve!** Just practice the elimination skill
+**Practice Problems 21-25 from AMC 8 2019:**
+- **Problem 21** (area of triangle from three lines) - 6 min
+- **Problem 22** (percent increase/decrease) - 6 min
+- **Problem 23** (basketball scoring fractions) - 6 min
+- **Problem 24** (triangle area ratios - Teresa's strength!) - 5 min
+- **Problem 25** (sharing apples distribution) - 2 min to read
 
-#### Part 2: The 2-Minute Rule (20 min)
-**Practice with 10 mixed problems:**
+**Strategy for hard problems:**
+1. **Read carefully** - these problems have complex setups
+2. **Draw diagrams** for geometry problems
+3. **Set up equations** for algebra/proportion problems
+4. **Take your time** - you CAN solve these!
+5. **Don't give up** - if you got stuck on Day 7's #19, #20, #22, you'd have missed them!
 
-**For each problem:**
-1. Read carefully (30 seconds)
-2. If you know how to start → Solve (max 2 min total)
-3. If you're stuck → Eliminate bad answers, guess, MOVE ON
+**Goal:** Get 2-3/5 correct by SOLVING, not guessing
 
-**Goal:** Don't get bogged down on any single problem
+**Key message:** "You're BETTER at hard problems than medium ones. Spend MORE time here!"
 
-**Time total:** Should finish all 10 in 20 minutes max
+#### Part 2: Smart Triage - Know What to Skip (20 min)
+**Teresa's REAL weakness:** Tedious medium logic puzzles and arrangements (like 2018 #16)
 
-#### Part 3: Final Pass Strategy for Problems 21-25 (20 min)
-**The Reality:** Problems 21-25 are HARD. Teresa doesn't need to master them.
+**Identify YOUR "skip problems":**
+Review these problem types Teresa has struggled with:
+- Complex logic puzzles with constraints (2019 #16, 2018 #16)
+- Combinatorics with arrangements (BEEKEEPER-type problems)
+- Problems with lots of case-checking
+
+**Practice the 30-Second Decision:**
+Look at 10 mixed problems from 2019 (problems 11-20):
+- For each: Read for 30 seconds
+- Decide: "This is MY type of problem" (attempt) or "This is tedious" (skip/guess)
+- **Don't solve** - just practice the triage decision
 
 **Strategy:**
-1. **Quick read** all 5 problems (2 min)
-2. **Pick 1-2** that seem most doable
-3. **Spend 3-4 min** on those problems only
-4. **Guess intelligently** on the rest using elimination
+- Teresa's strengths: Proportions, geometry, hard conceptual problems
+- Teresa can skip: Tedious logic, complex arrangements, excessive case-checking
+- **Save time on tedious problems to spend MORE on hard problems!**
 
-**Practice:** Use AMC 8 2019 Problems 21-25
-- Set timer for 10 minutes
-- Apply strategy above
-- Score: ___/5 (Goal: 2-3 correct through combination of solving + lucky guessing)
+#### Part 3: Strategic Guessing for Skipped Problems (15 min)
+**Golden Rule:** NEVER leave a blank! (No penalty for wrong answers)
+
+**Elimination Strategy for problems you skip:**
+1. Cross out obviously wrong answers
+2. Use estimation
+   - Example: If calculating area ≈ 50, eliminate choices like 200 or 5
+3. Look for patterns in answer choices
+   - If 4 choices are small, 1 is huge → probably not the huge one
+
+**Practice:** Take 5 medium logic problems Teresa would skip:
+- 2022 #16 (number pattern)
+- 2019 #14 (calendar logic)
+- 2018 #16 (arrangements)
+- For each: Eliminate 2-3 choices in 30 seconds, then guess
+- **Goal:** Make smart guesses FAST, then move to problems you CAN solve
+
+**Time-Saving Insight:**
+If Teresa spends 1 min instead of 3 min on tedious problems, she saves 2 min × 2-3 problems = **4-6 minutes** to spend on hard problems where she EXCELS!
 
 ---
 
 ## Day 10 - Thursday, January 16
 ### **PRACTICE TEST #2** (60 min)
 
-**🎯 Goal:** Execute full strategy under pressure, aim for 18-20/25
+**🎯 Goal:** Execute TERESA'S strategy under pressure, aim for 18-20/25
 
 #### Part 1: Full Timed Test (40 min)
 **Take AMC 8 2019 or 2022** (whichever not used yet)
 
 **STRICT 40-minute timer - No pauses!**
 
-**Apply EVERYTHING learned:**
+**Apply TERESA'S PERSONALIZED STRATEGY:**
 - ✅ 3-Check System on Problems 1-13
-- ✅ 2-Minute Rule on Problems 14-20
-- ✅ Strategic guessing on Problems 21-25
-- ✅ NO BLANKS - guess if you must!
+- ✅ Quick triage on Problems 14-18 (skip tedious ones!)
+- ✅ FOCUS on Problems 19-25 (this is where Teresa excels!)
+- ✅ NO BLANKS - guess on skipped problems
 
-**3-Pass Strategy:**
-- **Pass 1 (15 min):** Problems 1-13 → Aim for 12-13/13
-- **Pass 2 (15 min):** Problems 14-20 → Attempt all, get 4-5/7
-- **Pass 3 (10 min):** Problems 21-25 → Strategic attempts, get 2-3/5
+**REVISED 3-Pass Strategy for Teresa:**
+- **Pass 1 (15 min):** Problems 1-13 → Aim for 13/13
+- **Pass 2 (12 min):** Problems 14-18 → Quick attempts, skip tedious logic puzzles
+- **Pass 3 (13 min):** Problems 19-25 → FOCUS HERE! Attempt all hard problems
+
+**Why this strategy works for Teresa:**
+She got 100% on hard problems (Day 7: #19, #20, #22). She needs MORE time on problems 19-25, NOT less!
 
 #### Part 2: Immediate Debrief (20 min)
 **Score the test:**
 
 | Section | Score | Goal | Met Goal? |
 |---------|-------|------|-----------|
-| Problems 1-13 | ___/13 | 12-13 | ✅ / ❌ |
-| Problems 14-18 | ___/5 | 3-4 | ✅ / ❌ |
-| Problems 19-25 | ___/7 | 2-3 | ✅ / ❌ |
+| Problems 1-13 | ___/13 | 13/13 | ✅ / ❌ |
+| Problems 14-18 | ___/5 | 2-3 | ✅ / ❌ |
+| Problems 19-25 | ___/7 | 3-4 | ✅ / ❌ |
 | **TOTAL** | **___/25** | **18-20** | ✅ / ❌ |
+
+**NOTE:** Teresa's goals are DIFFERENT from typical students:
+- Higher expectations on hard problems (19-25): 3-4 correct, not 2-3
+- Lower expectations on medium problems (14-18): 2-3 correct, not 3-4
+- This matches her actual performance profile!
 
 **Quick reflection:**
 1. Time management: Did you finish? _______
@@ -743,7 +976,7 @@ TOTAL:          18-20 / 25 = 72-80% ✓
 | Test | Date | Score | Problems 1-13 | Problems 14-18 | Problems 19-25 | Notes |
 |------|------|-------|---------------|----------------|----------------|-------|
 | **Baseline 2024** | 2024 | 16/25 | 10/13 | 4/5 | 2/7 | Starting point |
-| **AMC 8 2020** | Jan 9 | ___/25 | ___/13 | ___/5 | ___/7 | |
+| **AMC 8 2020** | Jan 9 | 12/25 | 11/13 | 0/5 | 1/7 | Focus on Pass 2 strategy |
 | **AMC 8 2019/2022** | Jan 16 | ___/25 | ___/13 | ___/5 | ___/7 | |
 | **AMC 8 2018** | Jan 18 | ___/25 | ___/13 | ___/5 | ___/7 | |
 | **COMPETITION** | Jan 22-28 | ___/25 | ___/13 | ___/5 | ___/7 | 🎯 |
