@@ -155,7 +155,7 @@ When you reverse two digits (like 37 → 73), the difference is always a multipl
 
 #### Hour 1: Practice Test #3 (60 min)
 
-**Take AMC 8 2018 or 2017** (whichever hasn't been used)
+**Take AMC 8 Mock 1 or Mock 2** (whichever hasn't been used)
 
 **Full 40-minute timed test under competition conditions:**
 - Quiet room, no interruptions
