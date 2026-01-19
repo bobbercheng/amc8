@@ -6,7 +6,7 @@
 
 ---
 
-## Problem 1
+## Problem 1 (Geometry)
 
 The Math Team designed a logo shaped like a multiplication symbol, shown below on a grid of 1-inch squares. What is the area of the logo in square inches?
 
@@ -16,7 +16,7 @@ $\textbf{(A) } 10 \qquad \textbf{(B) } 12 \qquad \textbf{(C) } 13 \qquad \textbf
 
 ---
 
-## Problem 2
+## Problem 2 (Algebra)
 
 Consider these two operations:
 $$a \, \blacklozenge \, b = a^2 - b^2$$
@@ -28,7 +28,7 @@ $\textbf{(A) } {-}20 \qquad \textbf{(B) } 4 \qquad \textbf{(C) } 16 \qquad \text
 
 ---
 
-## Problem 3
+## Problem 3 (Number Theory)
 
 When three positive integers $a$, $b$, and $c$ are multiplied together, their product is $100$. Suppose $a < b < c$. In how many ways can the numbers be chosen?
 
@@ -36,7 +36,7 @@ $\textbf{(A) } 0 \qquad \textbf{(B) } 1\qquad\textbf{(C) } 2\qquad\textbf{(D) } 
 
 ---
 
-## Problem 4
+## Problem 4 (Geometry)
 
 The letter **M** in the figure below is first reflected over the line $q$ and then reflected over the line $p$. What is the resulting image?
 
@@ -50,7 +50,7 @@ $\textbf{(E)}$ M rotated 90° clockwise (different position)
 
 ---
 
-## Problem 5
+## Problem 5 (Algebra)
 
 Anna and Bella are celebrating their birthdays together. Five years ago, when Bella turned $6$ years old, she received a newborn kitten as a birthday present. Today the sum of the ages of the two children and the kitten is $30$ years. How many years older than Bella is Anna?
 
@@ -58,7 +58,7 @@ $\textbf{(A) } 1 \qquad \textbf{(B) } 2 \qquad \textbf{(C) } 3 \qquad \textbf{(D
 
 ---
 
-## Problem 6
+## Problem 6 (Algebra)
 
 Three positive integers are equally spaced on a number line. The middle number is $15,$ and the largest number is $4$ times the smallest number. What is the smallest of these three numbers?
 
@@ -66,7 +66,7 @@ $\textbf{(A) } 4 \qquad \textbf{(B) } 5 \qquad \textbf{(C) } 6 \qquad \textbf{(D
 
 ---
 
-## Problem 7
+## Problem 7 (Arithmetic)
 
 When the World Wide Web first became popular in the $1990$s, download speeds reached a maximum of about $56$ kilobits per second. Approximately how many minutes would the download of a $4.2$-megabyte song have taken at that speed? (Note that there are $8000$ kilobits in a megabyte.)
 
@@ -74,7 +74,7 @@ $\textbf{(A) } 0.6 \qquad \textbf{(B) } 10 \qquad \textbf{(C) } 1800 \qquad \tex
 
 ---
 
-## Problem 8
+## Problem 8 (Arithmetic)
 
 What is the value of
 $$\frac{1}{3}\cdot\frac{2}{4}\cdot\frac{3}{5}\cdots\frac{18}{20}\cdot\frac{19}{21}\cdot\frac{20}{22}?$$
@@ -83,7 +83,7 @@ $\textbf{(A) } \frac{1}{462} \qquad \textbf{(B) } \frac{1}{231} \qquad \textbf{(
 
 ---
 
-## Problem 9
+## Problem 9 (Algebra)
 
 A cup of boiling water ($212°\text{F}$) is placed to cool in a room whose temperature remains constant at $68°\text{F}$. Suppose the difference between the water temperature and the room temperature is halved every $5$ minutes. What is the water temperature, in degrees Fahrenheit, after $15$ minutes?
 
@@ -91,7 +91,7 @@ $\textbf{(A)} ~77\qquad\textbf{(B)} ~86\qquad\textbf{(C)} ~92\qquad\textbf{(D)} 
 
 ---
 
-## Problem 10
+## Problem 10 (Algebra)
 
 One sunny day, Ling decided to take a hike in the mountains. She left her house at $8 \, \textsc{am}$, drove at a constant speed of $45$ miles per hour, and arrived at the hiking trail at $10 \, \textsc{am}$. After hiking for $3$ hours, Ling drove home at a constant speed of $60$ miles per hour. Which of the following graphs best illustrates the distance between Ling's car and her house over the course of her trip?
 
@@ -99,7 +99,7 @@ One sunny day, Ling decided to take a hike in the mountains. She left her house 
 
 ---
 
-## Problem 11
+## Problem 11 (Algebra)
 
 Henry the donkey has a very long piece of pasta. He takes a number of bites of pasta, each time eating $3$ inches of pasta from the middle of one piece. In the end, he has $10$ pieces of pasta whose total length is $17$ inches. How long, in inches, was the piece of pasta he started with?
 
@@ -107,7 +107,7 @@ $\textbf{(A)} ~34\qquad\textbf{(B)} ~38\qquad\textbf{(C)} ~41\qquad\textbf{(D)} 
 
 ---
 
-## Problem 12
+## Problem 12 (Counting & Probability)
 
 The arrows on the two spinners shown below are spun. Let the number $N$ equal $10$ times the number on Spinner $\text{A}$, added to the number on Spinner $\text{B}$. What is the probability that $N$ is a perfect square number?
 
@@ -119,7 +119,7 @@ $\textbf{(A)} ~\dfrac{1}{16}\qquad\textbf{(B)} ~\dfrac{1}{8}\qquad\textbf{(C)} ~
 
 ---
 
-## Problem 13
+## Problem 13 (Algebra)
 
 How many positive integers can fill the blank in the sentence below?
 
@@ -129,7 +129,7 @@ $\textbf{(A) } 6 \qquad \textbf{(B) } 7 \qquad \textbf{(C) } 8 \qquad \textbf{(D
 
 ---
 
-## Problem 14
+## Problem 14 (Counting & Probability)
 
 In how many ways can the letters in $\textbf{BEEKEEPER}$ be rearranged so that two or more $\textbf{E}$s do not appear together?
 
@@ -137,7 +137,7 @@ $\textbf{(A) } 1 \qquad \textbf{(B) } 4 \qquad \textbf{(C) } 12 \qquad \textbf{(
 
 ---
 
-## Problem 15
+## Problem 15 (Arithmetic)
 
 Laszlo went online to shop for black pepper and found thirty different black pepper options varying in weight and price, shown in the scatter plot below. In ounces, what is the weight of the pepper that offers the lowest price per ounce?
 
@@ -147,7 +147,7 @@ $\textbf{(A) }1\qquad\textbf{(B) }2\qquad\textbf{(C) }3\qquad\textbf{(D) }4\qqua
 
 ---
 
-## Problem 16
+## Problem 16 (Algebra)
 
 Four numbers are written in a row. The average of the first two is $21,$ the average of the middle two is $26,$ and the average of the last two is $30.$ What is the average of the first and last of the numbers?
 
@@ -155,7 +155,7 @@ $\textbf{(A) } 24 \qquad \textbf{(B) } 25 \qquad \textbf{(C) } 26 \qquad \textbf
 
 ---
 
-## Problem 17
+## Problem 17 (Number Theory)
 
 If $n$ is an even positive integer, the *double factorial* notation $n!!$ represents the product of all the even integers from $2$ to $n$. For example, $8!! = 2 \cdot 4 \cdot 6 \cdot 8$. What is the units digit of the following sum?
 $$2!! + 4!! + 6!! + \cdots + 2018!! + 2020!! + 2022!!$$
@@ -164,7 +164,7 @@ $\textbf{(A)} ~0\qquad\textbf{(B)} ~2\qquad\textbf{(C)} ~4\qquad\textbf{(D)} ~6\
 
 ---
 
-## Problem 18
+## Problem 18 (Geometry)
 
 The midpoints of the four sides of a rectangle are $(-3,0), (2,0), (5,4),$ and $(0,4).$ What is the area of the rectangle?
 
@@ -172,7 +172,7 @@ $\textbf{(A) } 20 \qquad \textbf{(B) } 25 \qquad \textbf{(C) } 40 \qquad \textbf
 
 ---
 
-## Problem 19
+## Problem 19 (Arithmetic)
 
 Mr. Ramos gave a test to his class of $20$ students. The dot plot below shows the distribution of test scores.
 
@@ -194,7 +194,7 @@ $\textbf{(A)} ~2\qquad\textbf{(B)} ~3\qquad\textbf{(C)} ~4\qquad\textbf{(D)} ~5\
 
 ---
 
-## Problem 20
+## Problem 20 (Algebra)
 
 The grid below is to be filled with integers in such a way that the sum of the numbers in each row and the sum of the numbers in each column are the same. Four numbers are missing. The number $x$ in the lower left corner is larger than the other three missing numbers. What is the smallest possible value of $x$?
 
@@ -208,7 +208,7 @@ $\textbf{(A) } {-}1 \qquad \textbf{(B) } 5 \qquad \textbf{(C) } 6 \qquad \textbf
 
 ---
 
-## Problem 21
+## Problem 21 (Algebra)
 
 Steph scored $15$ baskets out of $20$ attempts in the first half of a game, and $10$ baskets out of $10$ attempts in the second half. Candace took $12$ attempts in the first half and $18$ attempts in the second. In each half, Steph scored a higher percentage of baskets than Candace. Surprisingly they ended with the same overall percentage of baskets scored. How many more baskets did Candace score in the second half than in the first?
 
@@ -221,7 +221,7 @@ $\textbf{(A) } 7\qquad\textbf{(B) } 8\qquad\textbf{(C) } 9\qquad\textbf{(D) } 10
 
 ---
 
-## Problem 22
+## Problem 22 (Algebra)
 
 A bus takes $2$ minutes to drive from one stop to the next, and waits $1$ minute at each stop to let passengers board. Zia takes $5$ minutes to walk from one bus stop to the next. As Zia reaches a bus stop, if the bus is at the previous stop or has already left the previous stop, then she will wait for the bus. Otherwise she will start walking toward the next stop. Suppose the bus and Zia start at the same time toward the library, with the bus $3$ stops behind. After how many minutes will Zia board the bus?
 
@@ -231,7 +231,7 @@ $\textbf{(A) } 17 \qquad \textbf{(B) } 19 \qquad \textbf{(C) } 20 \qquad \textbf
 
 ---
 
-## Problem 23
+## Problem 23 (Counting & Probability)
 
 A $\triangle$ or $\bigcirc$ is placed in each of the nine squares in a $3$-by-$3$ grid. Shown below is a sample configuration with three $\triangle$s in a line.
 
@@ -243,7 +243,7 @@ $\textbf{(A) } 39 \qquad \textbf{(B) } 42 \qquad \textbf{(C) } 78 \qquad \textbf
 
 ---
 
-## Problem 24
+## Problem 24 (Geometry)
 
 The figure below shows a polygon $ABCDEFGH$, consisting of rectangles and right triangles. When cut out and folded on the dotted lines, the polygon forms a triangular prism. Suppose that $AH = EF = 8$ and $GH = 14$. What is the volume of the prism?
 
@@ -253,7 +253,7 @@ $\textbf{(A)} ~112\qquad\textbf{(B)} ~128\qquad\textbf{(C)} ~192\qquad\textbf{(D
 
 ---
 
-## Problem 25
+## Problem 25 (Counting & Probability)
 
 A cricket randomly hops between $4$ leaves, on each turn hopping to one of the other $3$ leaves with equal probability. After $4$ hops, what is the probability that the cricket has returned to the leaf where it started?
 

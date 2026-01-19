@@ -6,7 +6,7 @@
 
 ---
 
-## Problem 1
+## Problem 1 (Arithmetic)
 
 Danica wants to arrange her model cars in rows with exactly 6 cars in each row. She now has 23 model cars. What is the smallest number of additional cars she must buy in order to be able to arrange all her cars this way?
 
@@ -14,7 +14,7 @@ $\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D
 
 ---
 
-## Problem 2
+## Problem 2 (Arithmetic)
 
 A sign at the fish market says, "50% off, today only: half-pound packages for just \$3 per package." What is the regular price for a full pound of fish, in dollars? (Assume that there are no deals for bulk)
 
@@ -22,7 +22,7 @@ $\textbf{(A)}\ 6 \qquad \textbf{(B)}\ 9 \qquad \textbf{(C)}\ 10 \qquad \textbf{(
 
 ---
 
-## Problem 3
+## Problem 3 (Algebra)
 
 What is the value of $4 \cdot (-1+2-3+4-5+6-7+\cdots+1000)$?
 
@@ -30,7 +30,7 @@ $\textbf{(A)}\ -10 \qquad \textbf{(B)}\ 0 \qquad \textbf{(C)}\ 1 \qquad \textbf{
 
 ---
 
-## Problem 4
+## Problem 4 (Algebra)
 
 Eight friends ate at a restaurant and agreed to share the bill equally. Because Judi forgot her money, each of her seven friends paid an extra \$2.50 to cover her portion of the total bill. What was the total bill?
 
@@ -38,7 +38,7 @@ $\textbf{(A)}\ \$120\qquad\textbf{(B)}\ \$128\qquad\textbf{(C)}\ \$140\qquad\tex
 
 ---
 
-## Problem 5
+## Problem 5 (Arithmetic)
 
 Hammie is in the $6^\text{th}$ grade and weighs 106 pounds. Her quadruplet sisters are tiny babies and weigh 5, 5, 6, and 8 pounds. Which is greater, the average (mean) weight of these five children or the median weight, and by how many pounds?
 
@@ -46,7 +46,7 @@ $\textbf{(A)}\ \text{median, by 60} \qquad \textbf{(B)}\ \text{median, by 20} \q
 
 ---
 
-## Problem 6
+## Problem 6 (Algebra)
 
 The number in each box below is the product of the numbers in the two boxes that touch it in the row above. For example, $30 = 6\times5$. What is the missing number in the top row?
 
@@ -59,7 +59,7 @@ $\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 3 \qquad \textbf{(C)}\ 4 \qquad \textbf{(D
 
 ---
 
-## Problem 7
+## Problem 7 (Arithmetic)
 
 Trey and his mom stopped at a railroad crossing to let a train pass. As the train began to pass, Trey counted 6 cars in the first 10 seconds. It took the train 2 minutes and 45 seconds to clear the crossing at a constant speed. Which of the following was the most likely number of cars in the train?
 
@@ -67,7 +67,7 @@ $\textbf{(A)}\ 60 \qquad \textbf{(B)}\ 80 \qquad \textbf{(C)}\ 100 \qquad \textb
 
 ---
 
-## Problem 8
+## Problem 8 (Counting & Probability)
 
 A fair coin is tossed 3 times. What is the probability of at least two consecutive heads?
 
@@ -75,7 +75,7 @@ $\textbf{(A)}\ \frac{1}{8} \qquad \textbf{(B)}\ \frac{1}{4} \qquad \textbf{(C)}\
 
 ---
 
-## Problem 9
+## Problem 9 (Algebra)
 
 The Incredible Hulk can double the distance it jumps with each succeeding jump. If its first jump is 1 meter, the second jump is 2 meters, the third jump is 4 meters, and so on, then on which jump will it first be able to jump more than 1 kilometer?
 
@@ -83,7 +83,7 @@ $\textbf{(A)}\ 9^\text{th} \qquad \textbf{(B)}\ 10^\text{th} \qquad \textbf{(C)}
 
 ---
 
-## Problem 10
+## Problem 10 (Number Theory)
 
 What is the ratio of the least common multiple of 180 and 594 to the greatest common factor of 180 and 594?
 
@@ -91,7 +91,7 @@ $\textbf{(A)}\ 110 \qquad \textbf{(B)}\ 165 \qquad \textbf{(C)}\ 330 \qquad \tex
 
 ---
 
-## Problem 11
+## Problem 11 (Arithmetic)
 
 Ted's grandfather used his treadmill on 3 days this week. He went 2 miles each day. On Monday he jogged at a speed of 5 miles per hour. He walked at the rate of 3 miles per hour on Wednesday and at 4 miles per hour on Friday. If Grandfather had always walked at 4 miles per hour, he would have spent less time on the treadmill. How many minutes less?
 
@@ -99,7 +99,7 @@ $\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D
 
 ---
 
-## Problem 12
+## Problem 12 (Arithmetic)
 
 At the 2013 Winnebago County Fair a vendor is offering a "fair special" on sandals. If you buy one pair of sandals at the regular price of $50, you get a second pair at a 40% discount, and a third pair at half the regular price. Javier took advantage of the "fair special" to buy three pairs of sandals. What percentage of the 150 dollar regular price did he save?
 
@@ -107,7 +107,7 @@ $\textbf{(A)}\ 25\% \qquad \textbf{(B)}\ 30\% \qquad \textbf{(C)}\ 33\% \qquad \
 
 ---
 
-## Problem 13
+## Problem 13 (Number Theory)
 
 When Clara totaled her scores, she inadvertently reversed the units digit and the tens digit of one score. By which of the following might her incorrect sum have differed from the correct one?
 
@@ -115,7 +115,7 @@ $\textbf{(A)}\ 45 \qquad \textbf{(B)}\ 46 \qquad \textbf{(C)}\ 47 \qquad \textbf
 
 ---
 
-## Problem 14
+## Problem 14 (Counting & Probability)
 
 Abe holds 1 green and 1 red jelly bean in his hand. Bob holds 1 green, 1 yellow, and 2 red jelly beans in his hand. Each randomly picks a jelly bean to show the other. What is the probability that the colors match?
 
@@ -123,7 +123,7 @@ $\textbf{(A)}\ \frac{1}{4} \qquad \textbf{(B)}\ \frac{1}{3} \qquad \textbf{(C)}\
 
 ---
 
-## Problem 15
+## Problem 15 (Algebra)
 
 If $3^p + 3^4 = 90$, $2^r + 44 = 76$, and $5^3 + 6^s = 1421$, what is the product of $p$, $r$, and $s$?
 
@@ -131,7 +131,7 @@ $\textbf{(A)}\ 27 \qquad \textbf{(B)}\ 40 \qquad \textbf{(C)}\ 50 \qquad \textbf
 
 ---
 
-## Problem 16
+## Problem 16 (Algebra)
 
 A number of students from Fibonacci Middle School are taking part in a community service project. The ratio of $8^\text{th}$-graders to $6^\text{th}$-graders is $5:3$, and the ratio of $8^\text{th}$-graders to $7^\text{th}$-graders is $8:5$. What is the smallest number of students that could be participating in the project?
 
@@ -139,7 +139,7 @@ $\textbf{(A)}\ 16 \qquad \textbf{(B)}\ 40 \qquad \textbf{(C)}\ 55 \qquad \textbf
 
 ---
 
-## Problem 17
+## Problem 17 (Algebra)
 
 The sum of six consecutive positive integers is 2013. What is the largest of these six integers?
 
@@ -147,7 +147,7 @@ $\textbf{(A)}\ 335 \qquad \textbf{(B)}\ 338 \qquad \textbf{(C)}\ 340 \qquad \tex
 
 ---
 
-## Problem 18
+## Problem 18 (Geometry)
 
 Isabella uses one-foot cubical blocks to build a rectangular fort that is 12 feet long, 10 feet wide, and 5 feet high. The floor and the four walls are all one foot thick. How many blocks does the fort contain?
 
@@ -157,7 +157,7 @@ $\textbf{(A)}\ 204 \qquad \textbf{(B)}\ 280 \qquad \textbf{(C)}\ 320 \qquad \tex
 
 ---
 
-## Problem 19
+## Problem 19 (Arithmetic)
 
 Bridget, Cassie, and Hannah are discussing the results of their last math test. Hannah shows Bridget and Cassie her test, but Bridget and Cassie don't show theirs to anyone. Cassie says, 'I didn't get the lowest score in our class,' and Bridget adds, 'I didn't get the highest score.' What is the ranking of the three girls from the highest score to the lowest score?
 
@@ -169,7 +169,7 @@ $\textbf{(E)}\ \text{Bridget, Cassie, Hannah}$
 
 ---
 
-## Problem 20
+## Problem 20 (Geometry)
 
 A $1\times 2$ rectangle is inscribed in a semicircle with longer side on the diameter. What is the area of the semicircle?
 
@@ -177,7 +177,7 @@ $\textbf{(A)}\ \frac{\pi}{2} \qquad \textbf{(B)}\ \frac{2\pi}{3} \qquad \textbf{
 
 ---
 
-## Problem 21
+## Problem 21 (Counting & Probability)
 
 Samantha lives 2 blocks west and 1 block south of the southwest corner of City Park. Her school is 2 blocks east and 2 blocks north of the northeast corner of City Park. On school days she bikes on streets to the southwest corner of City Park, then takes a diagonal path through the park to the northeast corner, and then bikes on streets to school. If her route is as short as possible, how many different routes can she take?
 
@@ -185,7 +185,7 @@ $\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 6 \qquad \textbf{(C)}\ 9 \qquad \textbf{(D
 
 ---
 
-## Problem 22
+## Problem 22 (Counting & Probability)
 
 Toothpicks are used to make a grid that is 60 toothpicks long and 32 toothpicks wide. How many toothpicks are used altogether?
 
@@ -195,7 +195,7 @@ $\textbf{(A)}\ 1920 \qquad \textbf{(B)}\ 1952 \qquad \textbf{(C)}\ 1980 \qquad \
 
 ---
 
-## Problem 23
+## Problem 23 (Geometry)
 
 Angle $ABC$ of $\triangle ABC$ is a right angle. The sides of $\triangle ABC$ are the diameters of semicircles as shown. The area of the semicircle on $\overline{AB}$ equals $8\pi$, and the arc of the semicircle on $\overline{AC}$ has length $8.5\pi$. What is the radius of the semicircle on $\overline{BC}$?
 
@@ -205,7 +205,7 @@ $\textbf{(A)}\ 7 \qquad \textbf{(B)}\ 7.5 \qquad \textbf{(C)}\ 8 \qquad \textbf{
 
 ---
 
-## Problem 24
+## Problem 24 (Geometry)
 
 Squares $ABCD$, $EFGH$, and $GHIJ$ are equal in area. Points $C$ and $D$ are the midpoints of sides $IH$ and $HE$, respectively. What is the ratio of the area of the shaded pentagon $AJICB$ to the sum of the areas of the three squares?
 
@@ -215,7 +215,7 @@ $\textbf{(A)}\ \frac{1}{4}\qquad\textbf{(B)}\ \frac{7}{24}\qquad\textbf{(C)}\ \f
 
 ---
 
-## Problem 25
+## Problem 25 (Geometry)
 
 A ball with diameter 4 inches starts at point A to roll along the track shown. The track is comprised of 3 semicircular arcs whose radii are $R_1 = 100$ inches, $R_2 = 60$ inches, and $R_3 = 80$ inches, respectively. The ball always remains in contact with the track and does not slip. What is the distance the center of the ball travels over the course from A to B?
 
