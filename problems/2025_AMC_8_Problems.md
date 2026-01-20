@@ -6,7 +6,7 @@
 
 ---
 
-## Problem 1
+## Problem 1 (Geometry)
 
 The eight-pointed star, shown in the figure below, is a popular quilting pattern. What percent of the entire $4\times4$ grid is covered by the star?
 
@@ -16,7 +16,7 @@ $\textbf{(A)}\ 40 \qquad \textbf{(B)}\ 50 \qquad \textbf{(C)}\ 60 \qquad \textbf
 
 ---
 
-## Problem 2
+## Problem 2 (Arithmetic)
 
 The table below shows the Ancient Egyptian hieroglyphs that were used to represent different numbers.
 
@@ -36,7 +36,7 @@ $\textbf{(A)}\ 1,423 \qquad \textbf{(B)}\ 10,423 \qquad \textbf{(C)}\ 14,023 \qq
 
 ---
 
-## Problem 3
+## Problem 3 (Arithmetic)
 
 *Buffalo Shuffle-o* is a card game in which all the cards are distributed evenly among all players at the start of the game. When Annika and $3$ of her friends play *Buffalo Shuffle-o*, each player is dealt $15$ cards. Suppose $2$ more friends join the next game. How many cards will be dealt to each player?
 
@@ -44,7 +44,7 @@ $\textbf{(A)}\ 8 \qquad \textbf{(B)}\ 9 \qquad \textbf{(C)}\ 10 \qquad \textbf{(
 
 ---
 
-## Problem 4
+## Problem 4 (Arithmetic)
 
 Lucius is counting backward by $7$s. His first three numbers are $100$, $93$, and $86$. What is his $10$th number?
 
@@ -52,7 +52,7 @@ $\textbf{(A)}\ 30 \qquad \textbf{(B)}\ 37 \qquad \textbf{(C)}\ 42 \qquad \textbf
 
 ---
 
-## Problem 5
+## Problem 5 (Geometry)
 
 Betty drives a truck to deliver packages in a neighborhood whose street map is shown below. Betty starts at the factory (labeled $F$) and drives to location $A$, then $B$, then $C$, before returning to $F$. What is the shortest distance, in blocks, she can drive to complete the route?
 
@@ -62,7 +62,7 @@ $\textbf{(A)}\ 20 \qquad \textbf{(B)}\ 22 \qquad \textbf{(C)}\ 24 \qquad \textbf
 
 ---
 
-## Problem 6
+## Problem 6 (Number Theory)
 
 Sekou writes the numbers $15, 16, 17, 18, 19.$ After he erases one of his numbers, the sum of the remaining four numbers is a multiple of $4.$ Which number did he erase?
 
@@ -70,7 +70,7 @@ $\textbf{(A)}\ 15\qquad \textbf{(B)}\ 16\qquad \textbf{(C)}\ 17\qquad \textbf{(D
 
 ---
 
-## Problem 7
+## Problem 7 (Arithmetic)
 
 On the most recent exam in Prof. Xochi's class,
 
@@ -85,7 +85,7 @@ $\textbf{(A)}\ 8\qquad \textbf{(B)}\ 14\qquad \textbf{(C)}\ 22\qquad \textbf{(D)
 
 ---
 
-## Problem 8
+## Problem 8 (Geometry)
 
 Isaiah cuts open a cardboard cube along some of its edges to form the flat shape shown on the right, which has an area of $18$ square centimeters. What is the volume of the cube in cubic centimeters?
 
@@ -95,7 +95,7 @@ $\textbf{(A)}~3\sqrt{3}\qquad\textbf{(B)}~6\qquad\textbf{(C)}~9\qquad\textbf{(D)
 
 ---
 
-## Problem 9
+## Problem 9 (Arithmetic)
 
 Ningli looks at the $6$ pairs of numbers directly across from each other on a clock. She takes the average of each pair of numbers. What is the average of the resulting $6$ numbers?
 
@@ -105,7 +105,7 @@ $\textbf{(A)}\ 5\qquad \textbf{(B)}\ 6.5\qquad \textbf{(C)}\ 8\qquad \textbf{(D)
 
 ---
 
-## Problem 10
+## Problem 10 (Geometry)
 
 In the figure below, $ABCD$ is a rectangle with sides of length $AB = 5$ inches and $AD = 3$ inches. Rectangle $ABCD$ is rotated $90^\circ$ clockwise around the midpoint of side $DC$ to give a second rectangle. What is the total area, in square inches, covered by the two overlapping rectangles?
 
@@ -115,7 +115,7 @@ $\textbf{(A)}\ 21 \qquad \textbf{(B)}\ 22.25 \qquad \textbf{(C)}\ 23 \qquad \tex
 
 ---
 
-## Problem 11
+## Problem 11 (Counting & Probability)
 
 A $\textit{tetromino}$ consists of four squares connected along their edges. There are five possible tetromino shapes, $I$, $O$, $L$, $T$, and $S$, shown below, which can be rotated or flipped over. Three tetrominoes are used to completely cover a $3\times4$ rectangle. At least one of the tiles is an $S$ tile. What are the other two tiles?
 
@@ -125,7 +125,7 @@ $\textbf{(A)}\ I$ and $L\qquad \textbf{(B)}\ I$ and $T\qquad \textbf{(C)}\ L$ an
 
 ---
 
-## Problem 12
+## Problem 12 (Geometry)
 
 The region shown below consists of 24 squares, each with side length 1 centimeter. What is the area, in square centimeters, of the largest circle that can fit inside the region, possibly touching the boundaries?
 
@@ -135,7 +135,7 @@ $\textbf{(A)}\ 3\pi\qquad \textbf{(B)}\ 4\pi\qquad \textbf{(C)}\ 5\pi\qquad \tex
 
 ---
 
-## Problem 13
+## Problem 13 (Number Theory)
 
 Each of the even numbers $2, 4, 6, \ldots, 50$ is divided by $7$. The remainders are recorded. Which histogram displays the number of times each remainder occurs?
 
@@ -143,7 +143,7 @@ Each of the even numbers $2, 4, 6, \ldots, 50$ is divided by $7$. The remainders
 
 ---
 
-## Problem 14
+## Problem 14 (Algebra)
 
 A number $N$ is inserted into the list $2, 6, 7, 7, 28$. The mean is now twice as great as the median. What is $N$?
 
@@ -151,7 +151,7 @@ $\textbf{(A)}\ 7\qquad \textbf{(B)}\ 14\qquad \textbf{(C)}\ 20\qquad \textbf{(D)
 
 ---
 
-## Problem 15
+## Problem 15 (Counting & Probability)
 
 Kei draws a $6$-by-$6$ grid. He colors $13$ of the unit squares silver and the remaining squares gold. Kei then folds the grid in half vertically, forming pairs of overlapping unit squares. Let $m$ and $M$ equal the least and greatest possible number of gold-on-gold pairs, respectively. What is the value of $m+M$?
 
@@ -161,7 +161,7 @@ $\textbf{(A)}\ 12\qquad \textbf{(B)}\ 14\qquad \textbf{(C)}\ 16\qquad \textbf{(D
 
 ---
 
-## Problem 16
+## Problem 16 (Counting & Probability)
 
 Five distinct integers from $1$ to $10$ are chosen, and five distinct integers from $11$ to $20$ are chosen. No two numbers differ by exactly $10$. What is the sum of the ten chosen numbers?
 
@@ -169,7 +169,7 @@ $\textbf{(A)}\ 95\qquad \textbf{(B)}\ 100\qquad \textbf{(C)}\ 105\qquad \textbf{
 
 ---
 
-## Problem 17
+## Problem 17 (Algebra)
 
 In the land of Markovia, there are three cities: $A$, $B$, and $C$. There are $100$ people who live in $A$, $120$ who live in $B$, and $160$ who live in $C$. Everyone works in one of the three cities, and a person may work in the same city where they live. In the figure below, an arrow pointing from one city to another is labeled with the fraction of people living in the first city who work in the second city. (For example, $\frac{1}{4}$ of the people who live in $A$ work in $B$.) How many people work in $A$?
 
@@ -179,7 +179,7 @@ $\textbf{(A)}\ 55\qquad \textbf{(B)}\ 60\qquad \textbf{(C)}\ 85\qquad \textbf{(D
 
 ---
 
-## Problem 18
+## Problem 18 (Geometry)
 
 The circle shown below on the left has a radius of 1 unit. The region between the circle and the inscribed square is shaded. In the circle shown on the right, one quarter of the region between the circle and the inscribed square is shaded. The shaded regions in the two circles have the same area. What is the radius $R$, in units, of the circle on the right?
 
@@ -189,7 +189,7 @@ $\textbf{(A)}\ \sqrt2\qquad \textbf{(B)}\ 2\qquad \textbf{(C)}\ 2\sqrt2\qquad \t
 
 ---
 
-## Problem 19
+## Problem 19 (Algebra)
 
 Two towns, $A$ and $B$, are connected by a straight road, $15$ miles long. Traveling from town $A$ to town $B$, the speed limit changes every $5$ miles: from $25$ to $40$ to $20$ miles per hour (mph). Two cars, one at town $A$ and one at town $B$, start moving toward each other at the same time. They drive at exactly the speed limit in each portion of the road. How far from town $A$, in miles, will the two cars meet?
 
@@ -199,7 +199,7 @@ $\textbf{(A)}\ 7.75\qquad \textbf{(B)}\ 8\qquad \textbf{(C)}\ 8.25\qquad \textbf
 
 ---
 
-## Problem 20
+## Problem 20 (Algebra)
 
 Sarika, Dev, and Rajiv are sharing a large block of cheese. They take turns cutting off half of what remains and eating it: first Sarika eats half of the cheese, then Dev eats half of the remaining half, then Rajiv eats half of what remains, then back to Sarika, and so on. They stop when the cheese is too small to see. About what fraction of the original block of cheese does Sarika eat in total?
 
@@ -207,7 +207,7 @@ $\textbf{(A)}\ \frac{4}{7}\qquad \textbf{(B)}\ \frac{3}{5}\qquad \textbf{(C)}\ \
 
 ---
 
-## Problem 21
+## Problem 21 (Counting & Probability)
 
 The Konigsberg School has assigned grades 1 through 7 to pods $A$ through $G$, one grade per pod. Some of the pods are connected by walkways, as shown in the figure below. The school noticed that each pair of connected pods has been assigned grades differing by 2 or more grade levels. (For example, grades 1 and 2 will not be in pods directly connected by a walkway.) What is the sum of the grade levels assigned to pods $C, E$, and $F$?
 
@@ -217,7 +217,7 @@ $\textbf{(A)}~12\qquad\textbf{(B)}~13\qquad\textbf{(C)}~14\qquad\textbf{(D)}~15\
 
 ---
 
-## Problem 22
+## Problem 22 (Number Theory)
 
 A classroom has a row of 35 coat hooks. Paulina likes coats to be equally spaced, so that there is the same number of empty hooks before the first coat, after the last coat, and between every coat and the next one. Suppose there is at least 1 coat and at least 1 empty hook. How many different numbers of coats can satisfy Paulina's pattern?
 
@@ -227,7 +227,7 @@ $\textbf{(A)}\ 2\qquad \textbf{(B)}\ 4\qquad \textbf{(C)}\ 5\qquad \textbf{(D)}\
 
 ---
 
-## Problem 23
+## Problem 23 (Number Theory)
 
 How many four-digit numbers have all three of the following properties?
 
@@ -241,7 +241,7 @@ $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D
 
 ---
 
-## Problem 24
+## Problem 24 (Geometry)
 
 In trapezoid $ABCD$, angles $B$ and $C$ measure $60^\circ$ and $AB = DC$. The side lengths are all positive integers, and the perimeter of $ABCD$ is $30$ units. How many non-congruent trapezoids satisfy all of these conditions?
 
@@ -251,7 +251,7 @@ $\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D
 
 ---
 
-## Problem 25
+## Problem 25 (Counting & Probability)
 
 Makayla finds all the possible ways to draw a path in a $5 \times 5$ diamond-shaped grid. Each path starts at the bottom of the grid and ends at the top, always moving one unit northeast or northwest. She computes the area of the region between each path and the right side of the grid. Two examples are shown in the figures below. What is the sum of the areas determined by all possible paths?
 
