@@ -3,10 +3,34 @@
 **🎉 MOCK TEST RESULT:** 20/25 (80%) - **TARGET ACHIEVED!** 🎯
 **2016 Practice Test:** 16/25 (64%) - Shows need for consistency
 **Day 10 Result:** 19/25 (76%) - Strong performance
-**Test Date:** Saturday, January 24, 2026
-**Days Remaining:** 8 days
+**Test Date:** Sunday, January 25, 2026
+**Today:** Tuesday, January 20, 2026 (end of day)
+**Days Remaining:** 4.5 days until test!
 
-**KEY INSIGHT:** Teresa has PROVEN she can hit 80% (mock test). Focus this week is on CONSISTENCY and maintaining confidence!
+**KEY INSIGHT:** Teresa has PROVEN she can hit 80% (mock test). Final days focus on CONFIDENCE, rest, and light review - NO cramming!
+
+---
+
+## 📅 UPDATED SCHEDULE AT-A-GLANCE
+
+**✅ COMPLETED (Jan 17-20):**
+- Saturday 1/17: Quick Fixes (4 problem types learned)
+- Sunday 1/18: Weekend Intensive (practice test + confidence)
+- Monday 1/19: Light maintenance
+- Tuesday 1/20: Light maintenance
+
+**🎯 REMAINING (Jan 21-25):**
+- **Wednesday 1/21:** Final skills review (30 min) - verify 4 fixes
+- **Thursday 1/22:** Confidence day (20 min) - easy problems only
+- **Friday 1/23:** Rest day (15 min MAX) - stay fresh!
+- **Saturday 1/24:** Night before (20 min) - prepare materials, EARLY BEDTIME!
+- **Sunday 1/25:** TEST DAY! 🎯
+
+**🚨 CRITICAL FOR FINAL DAYS:**
+- Keep sessions SHORT (Teresa hates lengthy practice)
+- Focus on CONFIDENCE over drilling (she's already hit 80%!)
+- REST is MORE important than review (sleep 8+ hours Saturday night!)
+- NO new material, NO cramming!
 
 ---
 
@@ -172,11 +196,15 @@
 
 ## 📅 DAY-BY-DAY PLAN
 
-### Saturday, January 17 - "Quick Fixes" (45 min) **UPDATED**
+---
+
+## ✅ COMPLETED DAYS (Jan 17-20)
+
+### Saturday, January 17 - "Quick Fixes" (45 min) ✅ COMPLETED
 
 **🎯 Goal:** Fix the 4 "should-get" problems from Day 10 and 2016
 
-**🎉 CELEBRATE FIRST:** Teresa got 20/25 (80%) on mock test - she ACHIEVED the goal! Today is about locking in consistency.
+**🎉 CELEBRATED:** Teresa got 20/25 (80%) on mock test - she ACHIEVED the goal!
 
 #### Part 1: Digit Reversal & Modular Arithmetic (10 min)
 **Fix Problem 13 type:**
@@ -261,17 +289,17 @@ Find the largest power of 2 that divides 13⁴ - 11⁴
 
 ---
 
-**End of Day:** Teresa now knows how to solve 4 MORE problem types! With these fixes applied to future tests:
-- **Mock test result:** 20/25 (80%) ✅ ALREADY ACHIEVED
-- **Potential with fixes:** 21-22/25 (84-88%)! 🎉
+**Topics Covered:**
+1. ✅ Digit reversal & modular arithmetic
+2. ✅ Exponent equations
+3. ✅ Consecutive integer sums
+4. ✅ Power of 2 divisibility
 
 ---
 
-### Sunday, January 18 - Weekend Intensive (3 hours) **UPDATED**
+### Sunday, January 18 - Weekend Intensive (3 hours) ✅ COMPLETED
 
 **🎯 Goal:** Full dress rehearsal + confidence building
-
-**🎉 REMINDER:** Teresa already hit 80% on mock test! Today is about building confidence and consistency.
 
 #### Hour 1: Practice Test #3 (60 min)
 
@@ -331,65 +359,151 @@ Find the largest power of 2 that divides 13⁴ - 11⁴
 - **Day 7: 100% on selected hard problems** (#19, #20, #22)
 - With the 4 fixes from Saturday, she's ready for 21-22/25 (84-88%)!
 
-**Mental rehearsal:**
-Visualize test day, walking through the strategy calmly and confidently.
-*"I've already hit 80% on the mock test. I got perfect on Problems 1-12. I can solve hard problems. I just need to execute MY strategy."*
+**Completed Activities:**
+- ✅ Practice test #3 under competition conditions
+- ✅ Comprehensive review of all practice tests
+- ✅ One-page cheat sheet created
+- ✅ Confidence building exercises
 
 ---
 
-### Monday-Wednesday, January 20-22 - Light Maintenance (30 min/day) **UPDATED**
+### Monday, January 19 - Light Maintenance ✅ COMPLETED
 
-**🎯 Goal:** Stay sharp and confident - NO over-practicing!
-
-**🎉 DAILY REMINDER:** Teresa hit 80% on mock test. She's READY. This is just maintenance!
-
-**Monday (30 min):**
-- Review the one-page cheat sheet (10 min)
-- Do 5-10 easy problems for confidence (15 min)
-- **CELEBRATE:** "You got 12/12 perfect on 2016 Problems 1-12. You've got this!"
-- **NO NEW MATERIAL**
-
-**Tuesday (30 min):**
-- Review Teresa's favorite problem types (ratios, geometry, hard problems)
-- Do 3-5 problems she ENJOYS (not drills!)
-- **EMPHASIZE:** "You're BETTER at hard problems than medium logic puzzles - that's your superpower!"
-- Celebrate her strengths!
-
-**Wednesday (30 min):**
-- Quick review of the 4 fixes (digit reversal, exponents, consecutive integers, power of 2)
-- Practice 1-2 problems of each type (just verification, not drilling)
-- Confirm she's got these locked down
-- **CONFIDENCE BOOST:** "You've scored 20/25, 19/25, 17/25 on practice. You're ready!"
-
-**Key principle:** Teresa doesn't like lengthy practice. Keep sessions SHORT, POSITIVE, and CONFIDENCE-BUILDING! She's already proven she can hit 80% - now just maintain that momentum!
+**Activities:**
+- ✅ Reviewed one-page cheat sheet
+- ✅ Did 5-10 easy problems for confidence
+- ✅ Celebrated mock test achievement
 
 ---
 
-### Thursday, January 23 - Night Before Test (30 min)
+### Tuesday, January 20 - Light Maintenance ✅ COMPLETED
+
+**Activities:**
+- ✅ Reviewed favorite problem types (ratios, geometry, hard problems)
+- ✅ Did 3-5 problems Teresa ENJOYS
+- ✅ Reinforced strengths on hard problems
+
+---
+
+## 🎯 REMAINING DAYS (Jan 21-25)
+
+### Wednesday, January 21 - Final Skills Review (30 min)
+
+**🎯 Goal:** Verify the 4 fixes are locked in + stay confident
+
+**🎉 REMINDER:** Teresa hit 80% on mock test. She's READY. Just a quick tune-up!
+
+**Activities (30 min):**
+1. **Review the 4 fixes** (15 min)
+   - Digit reversal / modular arithmetic
+   - Exponent equations
+   - Consecutive integer sums
+   - Power of 2 divisibility
+   - Do 1 practice problem of each type (verification only!)
+
+2. **One-page cheat sheet review** (10 min)
+   - Key formulas (d=rt, area formulas, etc.)
+   - The 4 fixes
+   - Teresa's personalized strategy
+   - Common traps to avoid
+
+3. **Positive affirmation** (5 min)
+   - "I scored 20/25 (80%) on mock test!"
+   - "I got PERFECT 12/12 on easy problems!"
+   - "I've mastered 4 new problem types!"
+   - "I'm ready for test day!"
+
+**Key principle:** SHORT session, HIGH confidence! Teresa has already proven she can hit 80%.
+
+---
+
+### Thursday, January 22 - Confidence Day (20 min)
+
+**🎯 Goal:** Build confidence, stay relaxed - NO new material!
+
+**🎉 EMPHASIS:** "You've already achieved 80%. This is just staying sharp!"
+
+**Activities (20 min):**
+1. **Do 5-8 EASY problems** (Problems 1-8 from any year) (10 min)
+   - Goal: 8/8 or 7/8 - feel FAST and ACCURATE
+   - Boost confidence: "I'm REALLY good at these!"
+
+2. **Mental visualization** (10 min)
+   - Close eyes, imagine test day
+   - Walking into room feeling confident
+   - Executing the 3-Pass Strategy smoothly
+   - Finishing with 20-22/25 correct
+   - Feeling proud and accomplished
+
+**NO HARD PROBLEMS TODAY!** Just confidence building!
+
+---
+
+### Friday, January 23 - Rest Day (15 min MAX)
+
+**🎯 Goal:** Stay fresh, avoid burnout, light review only
+
+**🚨 CRITICAL:** Teresa doesn't like lengthy practice. Keep this VERY short!
+
+**Activities (15 min MAX):**
+1. **Quick cheat sheet glance** (5 min)
+   - Formulas, the 4 fixes, strategy reminders
+
+2. **2-3 favorite problems** (10 min)
+   - Pick problems Teresa ENJOYS (not hard ones!)
+   - Just to keep the brain active
+   - Stop after 15 minutes even if not done!
+
+**The REST of the day:**
+- ✅ Do something FUN and relaxing!
+- ✅ Stay hydrated
+- ✅ Eat well
+- ✅ Get light exercise (walk, stretch)
+- ❌ NO math after the 15-minute session!
+
+---
+
+### Saturday, January 24 - Night Before Test (20 min)
 
 **🎯 Goal:** Peak confidence and mental preparation
 
-**DO (30 min):**
-- [ ] Review one-page cheat sheet (10 min)
-- [ ] Visualize success - walk through the test mentally (10 min)
-- [ ] Prepare materials:
-  - 2-3 sharpened pencils ✓
-  - Good eraser ✓
-  - Scratch paper (if allowed) ✓
-  - Water/snack for before test ✓
-- [ ] Get to bed EARLY (8+ hours sleep!)
+**🚨 MOST IMPORTANT:** Get 8+ hours of sleep! Rest is MORE important than review!
 
-**DON'T:**
-- ❌ Cram new material
-- ❌ Do practice problems
-- ❌ Stress about hard problems
-- ❌ Stay up late
+**DO (20 min total):**
+1. **Quick cheat sheet review** (10 min)
+   - Glance at formulas
+   - Review the 4 fixes
+   - Read through Teresa's strategy
 
-**Mantra:** *"I scored 20/25 (80%) on mock test - I ACHIEVED my goal! I got 12/12 perfect on easy problems. I fixed 4 more problem types. I'm ready to do this again on test day!"*
+2. **Mental visualization** (5 min)
+   - Close eyes
+   - Imagine walking through the test calmly
+   - See yourself getting 20+ correct
+   - Feel confident and proud
+
+3. **Prepare materials** (5 min)
+   - [ ] 2-3 sharpened pencils
+   - [ ] Good eraser
+   - [ ] Scratch paper (if allowed)
+   - [ ] Water/snack for before test
+   - [ ] Set alarm for Sunday morning
+
+**THEN:**
+- [ ] Stop all math review by 7 PM!
+- [ ] Do something relaxing (watch a movie, read, family time)
+- [ ] Get to bed EARLY (8+ hours sleep - aim for 9 PM!)
+
+**DON'T DO TONIGHT:**
+- ❌ Cram new material (too late!)
+- ❌ Do practice problems (you're ready!)
+- ❌ Stress about hard problems (you got 5/7 on Day 10!)
+- ❌ Stay up late (sleep > review!)
+
+**Mantra:** *"I scored 20/25 (80%) on mock test - I ACHIEVED my goal! I got 12/12 perfect on easy problems. I'm READY!"*
 
 ---
 
-### Friday, January 24 - TEST DAY! 🎯
+### Sunday, January 25 - TEST DAY! 🎯
 
 **Before the test:**
 - [ ] Eat a good breakfast (protein + complex carbs)
@@ -541,42 +655,46 @@ With the 4 fixes, Teresa's personalized strategy, and mock test proof-of-concept
 
 ---
 
-## ✅ FINAL CHECKLIST **UPDATED**
+## ✅ FINAL CHECKLIST **UPDATED FOR SUNDAY JAN 25 TEST**
 
-**Already Completed:**
+**✅ Already Completed (Jan 17-20):**
 - ✅ Mock test: 20/25 (80%) - **GOAL ACHIEVED!**
 - ✅ 2016 practice test: 16/25 (64%) - identified consistency needs
 - ✅ Day 10: 19/25 (76%) - strong hard problem performance
+- ✅ Saturday Jan 17: "Quick Fixes" session - learned 4 new techniques
+- ✅ Sunday Jan 18: Weekend intensive - practice test + confidence building
+- ✅ Monday Jan 19: Light maintenance - cheat sheet review
+- ✅ Tuesday Jan 20: Light maintenance - favorite problems review
 
-**By Saturday Jan 17:**
-- [ ] Complete "Quick Fixes" session (45 min) **UPDATED to 4 fixes**
-- [ ] Understand digit reversal / modular arithmetic rule
-- [ ] Can solve exponent equations
-- [ ] Can solve consecutive integer problems
-- [ ] **NEW:** Can solve power of 2 divisibility problems
-- [ ] **CELEBRATE** the mock test win!
+**Wednesday Jan 21:**
+- [ ] Final skills review (30 min)
+- [ ] Verify the 4 fixes are locked in
+- [ ] Review one-page cheat sheet
+- [ ] Positive affirmation session
 
-**By Sunday Jan 18:**
-- [ ] Complete 3-hour weekend intensive
-- [ ] Take full practice test (target 19-22/25 to confirm consistency)
-- [ ] Create one-page cheat sheet with 4 fixes
-- [ ] Identify skip vs. attempt problem types
-- [ ] **REINFORCE:** Teresa's strength on hard problems (not medium logic puzzles)
+**Thursday Jan 22:**
+- [ ] Confidence day (20 min)
+- [ ] Do 5-8 EASY problems (feel fast and accurate!)
+- [ ] Mental visualization of test day
+- [ ] NO new material!
 
-**Mon-Wed Jan 20-22:**
-- [ ] Light practice 30 min/day
-- [ ] Review cheat sheet
-- [ ] Stay confident and positive
+**Friday Jan 23:**
+- [ ] Rest day (15 min MAX math)
+- [ ] Quick cheat sheet glance
+- [ ] 2-3 favorite problems (fun only!)
+- [ ] Stay hydrated, eat well, relax!
 
-**Thursday Jan 23:**
-- [ ] Final 30-min review
+**Saturday Jan 24 (Night Before):**
+- [ ] Quick review (20 min MAX)
 - [ ] Prepare all materials
-- [ ] Early bedtime (8+ hours!)
+- [ ] Mental visualization
+- [ ] Stop math by 7 PM!
+- [ ] Early bedtime (8+ hours sleep - aim for 9 PM!)
 
-**Friday Jan 24:**
-- [ ] Good breakfast
-- [ ] Arrive early
-- [ ] Execute TERESA'S STRATEGY (with smart triage!)
+**Sunday Jan 25 (TEST DAY):**
+- [ ] Good breakfast (protein + complex carbs)
+- [ ] Arrive 10-15 minutes early
+- [ ] Execute TERESA'S STRATEGY (3-Pass, smart triage!)
 - [ ] Remember: "I already hit 80% on mock test - just do it again!"
 - [ ] ACHIEVE 80%+! 🎯
 
