@@ -6,7 +6,7 @@
 
 ---
 
-## Problem 1
+## Problem 1 (Arithmetic)
 
 How many square yards of carpet are required to cover a rectangular floor that is $12$ feet long and $9$ feet wide? (There are $3$ feet in a yard.)
 
@@ -14,7 +14,7 @@ $\textbf{(A) }12\qquad\textbf{(B) }36\qquad\textbf{(C) }108\qquad\textbf{(D) }32
 
 ---
 
-## Problem 2
+## Problem 2 (Geometry)
 
 Point $O$ is the center of the regular octagon $ABCDEFGH$, and $X$ is the midpoint of the side $\overline{AB}.$ What fraction of the area of the octagon is shaded?
 
@@ -24,7 +24,7 @@ $\textbf{(A) }\frac{11}{32} \quad\textbf{(B) }\frac{3}{8} \quad\textbf{(C) }\fra
 
 ---
 
-## Problem 3
+## Problem 3 (Arithmetic)
 
 Jack and Jill are going swimming at a pool that is one mile from their house. They leave home simultaneously. Jill rides her bicycle to the pool at a constant speed of $10$ miles per hour. Jack walks to the pool at a constant speed of $4$ miles per hour. How many minutes before Jack arrives does Jill arrive?
 
@@ -32,7 +32,7 @@ $\textbf{(A) }5\qquad\textbf{(B) }6\qquad\textbf{(C) }8\qquad\textbf{(D) }9\qqua
 
 ---
 
-## Problem 4
+## Problem 4 (Counting & Probability)
 
 The Centerville Middle School chess team consists of two boys and three girls. A photographer wants to take a picture of the team to appear in the local newspaper. She decides to have them sit in a row with a boy at each end and the three girls in the middle. How many such arrangements are possible?
 
@@ -40,7 +40,7 @@ $\textbf{(A) }2\qquad\textbf{(B) }4\qquad\textbf{(C) }5\qquad\textbf{(D) }6\qqua
 
 ---
 
-## Problem 5
+## Problem 5 (Arithmetic)
 
 Billy's basketball team scored the following points over the course of the first $11$ games of the season:
 $$[42, 47, 53, 53, 58, 58, 58, 61, 64, 65, 73]$$
@@ -50,7 +50,7 @@ $\textbf{(A) } \text{range} \qquad \textbf{(B) } \text{median} \qquad \textbf{(C
 
 ---
 
-## Problem 6
+## Problem 6 (Geometry)
 
 In $\triangle ABC$, $AB=BC=29$, and $AC=42$. What is the area of $\triangle ABC$?
 
@@ -58,7 +58,7 @@ $\textbf{(A) }100\qquad\textbf{(B) }420\qquad\textbf{(C) }500\qquad\textbf{(D) }
 
 ---
 
-## Problem 7
+## Problem 7 (Counting & Probability)
 
 Each of two boxes contains three chips numbered $1$, $2$, $3$. A chip is drawn randomly from each box and the numbers on the two chips are multiplied. What is the probability that their product is even?
 
@@ -66,7 +66,7 @@ $\textbf{(A) }\frac{1}{9}\qquad\textbf{(B) }\frac{2}{9}\qquad\textbf{(C) }\frac{
 
 ---
 
-## Problem 8
+## Problem 8 (Geometry)
 
 What is the smallest whole number larger than the perimeter of any triangle with a side of length $5$ and a side of length $19$?
 
@@ -74,7 +74,7 @@ $\textbf{(A) }24\qquad\textbf{(B) }29\qquad\textbf{(C) }43\qquad\textbf{(D) }48\
 
 ---
 
-## Problem 9
+## Problem 9 (Algebra)
 
 On her first day of work, Janabel sold one widget. On day two, she sold three widgets. On day three, she sold five widgets, and on each succeeding day, she sold two more widgets than she had sold on the previous day. How many widgets in total had Janabel sold after working $20$ days?
 
@@ -82,7 +82,7 @@ $\textbf{(A) }39\qquad\textbf{(B) }40\qquad\textbf{(C) }210\qquad\textbf{(D) }40
 
 ---
 
-## Problem 10
+## Problem 10 (Counting & Probability)
 
 How many integers between $1000$ and $9999$ have four distinct digits?
 
@@ -90,7 +90,7 @@ $\textbf{(A) }3024\qquad\textbf{(B) }4536\qquad\textbf{(C) }5040\qquad\textbf{(D
 
 ---
 
-## Problem 11
+## Problem 11 (Counting & Probability)
 
 In the small country of Mathland, all automobile license plates have four symbols. The first symbol must be a vowel ($A, E, I, O,$ or $U$), the second and third symbols must be two different letters among the $21$ non-vowels in the alphabet, and the fourth symbol must be a digit ($0$ through $9$). If the symbols are chosen at random subject to these conditions, what is the probability that the plate will read "$AMC8$"?
 
@@ -98,7 +98,7 @@ $\textbf{(A) } \frac{1}{22,050} \qquad \textbf{(B) } \frac{1}{21,000}\qquad \tex
 
 ---
 
-## Problem 12
+## Problem 12 (Geometry)
 
 How many pairs of parallel edges, such as $\overline{AB}$ and $\overline{GH}$, or $\overline{EH}$ and $\overline{FG}$, does a cube have? Repeating parallel edges do not count toward the final answer.
 
@@ -108,7 +108,7 @@ $\textbf{(A) }6 \qquad\textbf{(B) }12 \qquad\textbf{(C) } 18 \qquad\textbf{(D) }
 
 ---
 
-## Problem 13
+## Problem 13 (Algebra)
 
 How many subsets of two elements can be removed from the set $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11\}$ so that the mean (average) of the remaining numbers is $6$?
 
@@ -116,7 +116,7 @@ $\textbf{(A)}\text{ 1}\qquad\textbf{(B)}\text{ 2}\qquad\textbf{(C)}\text{ 3}\qqu
 
 ---
 
-## Problem 14
+## Problem 14 (Number Theory)
 
 Which of the following integers cannot be written as the sum of four consecutive odd integers?
 
@@ -124,7 +124,7 @@ $\textbf{(A)}\text{ 16}\qquad\textbf{(B)}\text{ 40}\qquad\textbf{(C)}\text{ 72}\
 
 ---
 
-## Problem 15
+## Problem 15 (Algebra)
 
 At Euler Middle School, $198$ students voted on two issues in a school referendum with the following results: $149$ voted in favor of the first issue and $119$ voted in favor of the second issue. If there were exactly $29$ students who voted against both issues, how many students voted in favor of both issues?
 
@@ -132,7 +132,7 @@ $\textbf{(A) }49\qquad\textbf{(B) }70\qquad\textbf{(C) }79\qquad\textbf{(D) }99\
 
 ---
 
-## Problem 16
+## Problem 16 (Algebra)
 
 In a middle-school mentoring program, a number of the sixth graders are paired with a ninth-grade student as a buddy. No ninth grader is assigned more than one sixth-grade buddy. If $\tfrac{1}{3}$ of all the ninth graders are paired with $\tfrac{2}{5}$ of all the sixth graders, what fraction of the total number of sixth and ninth graders have a buddy?
 
@@ -140,7 +140,7 @@ $\textbf{(A) } \frac{2}{15} \qquad \textbf{(B) } \frac{4}{11} \qquad \textbf{(C)
 
 ---
 
-## Problem 17
+## Problem 17 (Algebra)
 
 Jeremy's father drives him to school in rush hour traffic in $20$ minutes. One day, there is no traffic, so his father can drive him $18$ miles per hour faster and gets him to school in $12$ minutes. How far in miles is it to school?
 
@@ -148,7 +148,7 @@ $\textbf{(A) } 4 \qquad \textbf{(B) } 6 \qquad \textbf{(C) } 8 \qquad \textbf{(D
 
 ---
 
-## Problem 18
+## Problem 18 (Algebra)
 
 An arithmetic sequence is a sequence in which each term after the first is obtained by adding a constant to the previous term. For example, $2,5,8,11,14$ is an arithmetic sequence with five terms, in which the first term is $2$ and the constant added is $3$. Each row and each column in this $5\times5$ array is an arithmetic sequence with five terms. The square in the center is labelled $X$ as shown. What is the value of $X$?
 
@@ -158,7 +158,7 @@ $\textbf{(A) }21\qquad\textbf{(B) }31\qquad\textbf{(C) }36\qquad\textbf{(D) }40\
 
 ---
 
-## Problem 19
+## Problem 19 (Geometry)
 
 A triangle with vertices as $A=(1,3)$, $B=(5,1)$, and $C=(4,4)$ is plotted on a $6\times5$ grid. What fraction of the grid is covered by the triangle?
 
@@ -168,7 +168,7 @@ $\textbf{(A) }\frac{1}{6} \qquad \textbf{(B) }\frac{1}{5} \qquad \textbf{(C) }\f
 
 ---
 
-## Problem 20
+## Problem 20 (Algebra)
 
 Ralph went to the store and bought $12$ pairs of socks for a total of $\$24$. Some of the socks he bought cost $\$1$ a pair, some of the socks he bought cost $\$3$ a pair, and some of the socks he bought cost $\$4$ a pair. If he bought at least one pair of each type, how many pairs of $\$1$ socks did Ralph buy?
 
@@ -176,7 +176,7 @@ $\textbf{(A) } 4 \qquad \textbf{(B) } 5 \qquad \textbf{(C) } 6 \qquad \textbf{(D
 
 ---
 
-## Problem 21
+## Problem 21 (Geometry)
 
 In the given figure hexagon $ABCDEF$ is equiangular, $ABJI$ and $FEHG$ are squares with areas $18$ and $32$ respectively, $\triangle JBK$ is equilateral and $FE=BC$. What is the area of $\triangle KBC$?
 
@@ -186,7 +186,7 @@ $\textbf{(A) }6\sqrt{2}\qquad\textbf{(B) }9\qquad\textbf{(C) }12\qquad\textbf{(D
 
 ---
 
-## Problem 22
+## Problem 22 (Number Theory)
 
 On June $1$, a group of students are standing in rows, with $15$ students in each row. On June $2$, the same group is standing with all of the students in one long row. On June $3$, the same group is standing with just one student in each row. On June $4$, the same group is standing with $6$ students in each row. This process continues through June $12$ with a different number of students per row each day. However, on June $13$, they cannot find a new way of organizing the students. What is the smallest possible number of students in the group?
 
@@ -194,7 +194,7 @@ $\textbf{(A) } 21 \qquad \textbf{(B) } 30 \qquad \textbf{(C) } 60 \qquad \textbf
 
 ---
 
-## Problem 23
+## Problem 23 (Algebra)
 
 Tom has twelve slips of paper which he wants to put into five cups labeled $A$, $B$, $C$, $D$, $E$. He wants the sum of the numbers on the slips in each cup to be an integer. Furthermore, he wants the five integers to be consecutive and increasing from $A$ to $E$. The numbers on the papers are $2, 2, 2, 2.5, 2.5, 3, 3, 3, 3, 3.5, 4,$ and $4.5$. If a slip with $2$ goes into cup $E$ and a slip with $3$ goes into cup $B$, then the slip with $3.5$ must go into what cup?
 
@@ -202,7 +202,7 @@ $\textbf{(A) } A \qquad \textbf{(B) } B \qquad \textbf{(C) } C \qquad \textbf{(D
 
 ---
 
-## Problem 24
+## Problem 24 (Algebra)
 
 A baseball league consists of two four-team divisions. Each team plays every other team in its division $N$ games. Each team plays every team in the other division $M$ games with $N>2M$ and $M>4$. Each team plays a $76$-game schedule. How many games does a team play within its own division?
 
@@ -210,7 +210,7 @@ $\textbf{(A) } 36 \qquad \textbf{(B) } 48 \qquad \textbf{(C) } 54 \qquad \textbf
 
 ---
 
-## Problem 25
+## Problem 25 (Geometry)
 
 One-inch squares are cut from the corners of this $5$ inch square. What is the area in square inches of the largest square that can fit into the remaining space?
 
