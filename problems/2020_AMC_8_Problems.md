@@ -1,12 +1,12 @@
 # 2020 AMC 8 Problems
 
-**Test Date:** November 10-16, 2020 (held online due to COVID-19)  
-**Time Limit:** 40 minutes  
+**Test Date:** November 10-16, 2020 (held online due to COVID-19)
+**Time Limit:** 40 minutes
 **Number of Problems:** 25
 
 ---
 
-## Problem 1
+## Problem 1 (Arithmetic)
 
 Luka is making lemonade to sell at a school fundraiser. His recipe requires $4$ times as much water as sugar and twice as much sugar as lemon juice. He uses $3$ cups of lemon juice. How many cups of water does he need?
 
@@ -14,7 +14,7 @@ $\textbf{(A) } 6\qquad\textbf{(B) } 8\qquad\textbf{(C) } 12\qquad\textbf{(D) } 1
 
 ---
 
-## Problem 2
+## Problem 2 (Arithmetic)
 
 Four friends do yardwork for their neighbors over the weekend, earning $\$15, \$20, \$25,$ and $\$40,$ respectively. They decide to split their earnings equally among themselves. In total how much will the friend who earned $\$40$ give to the others?
 
@@ -22,7 +22,7 @@ $\textbf{(A) }\$5 \qquad \textbf{(B) }\$10 \qquad \textbf{(C) }\$15 \qquad \text
 
 ---
 
-## Problem 3
+## Problem 3 (Arithmetic)
 
 Carrie has a rectangular garden that measures $6$ feet by $8$ feet. She plants the entire garden with strawberry plants. Carrie is able to plant $4$ strawberry plants per square foot, and she harvests an average of $10$ strawberries per plant. How many strawberries can she expect to harvest?
 
@@ -30,7 +30,7 @@ $\textbf{(A) }560 \qquad \textbf{(B) }960 \qquad \textbf{(C) }1120 \qquad \textb
 
 ---
 
-## Problem 4
+## Problem 4 (Counting & Probability)
 
 Three hexagons of increasing size are shown below. Suppose the dot pattern continues so that each successive hexagon contains one more band of dots. How many dots are in the next hexagon?
 
@@ -40,7 +40,7 @@ $\textbf{(A) }35 \qquad \textbf{(B) }37 \qquad \textbf{(C) }39 \qquad \textbf{(D
 
 ---
 
-## Problem 5
+## Problem 5 (Arithmetic)
 
 Three fourths of a pitcher is filled with pineapple juice. The pitcher is emptied by pouring an equal amount of juice into each of $5$ cups. What percent of the total capacity of the pitcher did each cup receive?
 
@@ -48,7 +48,7 @@ $\textbf{(A) }5 \qquad \textbf{(B) }10 \qquad \textbf{(C) }15 \qquad \textbf{(D)
 
 ---
 
-## Problem 6
+## Problem 6 (Counting & Probability)
 
 Aaron, Darren, Karen, Maren, and Sharon rode on a small train that has five cars that seat one person each. Maren sat in the last car. Aaron sat directly behind Sharon. Darren sat in one of the cars in front of Aaron. At least one person sat between Karen and Darren. Who sat in the middle car?
 
@@ -56,7 +56,7 @@ $\textbf{(A) }\text{Aaron} \qquad \textbf{(B) }\text{Darren} \qquad \textbf{(C) 
 
 ---
 
-## Problem 7
+## Problem 7 (Counting & Probability)
 
 How many integers between $2020$ and $2400$ have four distinct digits arranged in increasing order? (For example, $2347$ is one integer.)
 
@@ -64,7 +64,7 @@ $\textbf{(A) }\text{9} \qquad \textbf{(B) }\text{10} \qquad \textbf{(C) }\text{1
 
 ---
 
-## Problem 8
+## Problem 8 (Algebra)
 
 Ricardo has $2020$ coins, some of which are pennies ($1$-cent coins) and the rest of which are nickels ($5$-cent coins). He has at least one penny and at least one nickel. What is the difference in cents between the greatest possible and least possible amounts of money that Ricardo can have?
 
@@ -72,7 +72,7 @@ $\textbf{(A) }\text{8062} \qquad \textbf{(B) }\text{8068} \qquad \textbf{(C) }\t
 
 ---
 
-## Problem 9
+## Problem 9 (Geometry)
 
 Akash's birthday cake is in the form of a $4 \times 4 \times 4$ inch cube. The cake has icing on the top and the four side faces, and no icing on the bottom. Suppose the cake is cut into $64$ smaller cubes, each measuring $1 \times 1 \times 1$ inch, as shown below. How many small pieces will have icing on exactly two sides?
 
@@ -82,7 +82,7 @@ $\textbf{(A) }\text{12} \qquad \textbf{(B) }\text{16} \qquad \textbf{(C) }\text{
 
 ---
 
-## Problem 10
+## Problem 10 (Counting & Probability)
 
 Zara has a collection of $4$ marbles: an Aggie, a Bumblebee, a Steelie, and a Tiger. She wants to display them in a row on a shelf, but does not want to put the Steelie and the Tiger next to one another. In how many ways can she do this?
 
@@ -90,7 +90,7 @@ $\textbf{(A) }6 \qquad \textbf{(B) }8 \qquad \textbf{(C) }12 \qquad \textbf{(D) 
 
 ---
 
-## Problem 11
+## Problem 11 (Arithmetic)
 
 After school, Maya and Naomi headed to the beach, $6$ miles away. Maya decided to bike while Naomi took a bus. The graph below shows their journeys, indicating the time and distance traveled. What was the difference, in miles per hour, between Naomi's and Maya's average speeds?
 
@@ -100,7 +100,7 @@ $\textbf{(A) }6 \qquad \textbf{(B) }12 \qquad \textbf{(C) }18 \qquad \textbf{(D)
 
 ---
 
-## Problem 12
+## Problem 12 (Number Theory)
 
 For a positive integer $n,$ the factorial notation $n!$ represents the product of the integers from $n$ to $1$. (For example, $6! = 6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1$.) What value of $N$ satisfies the following equation?
 $$5! \cdot 9! = 12 \cdot N!$$
@@ -109,7 +109,7 @@ $\textbf{(A) }10 \qquad \textbf{(B) }11 \qquad \textbf{(C) }12 \qquad \textbf{(D
 
 ---
 
-## Problem 13
+## Problem 13 (Counting & Probability)
 
 Jamal has a drawer containing $6$ green socks, $18$ purple socks, and $12$ orange socks. After adding more purple socks, Jamal noticed that there is now a $60\%$ chance that a sock randomly selected from the drawer is purple. How many purple socks did Jamal add?
 
@@ -117,7 +117,7 @@ $\textbf{(A) }6 \qquad \textbf{(B) }9 \qquad \textbf{(C) }12 \qquad \textbf{(D) 
 
 ---
 
-## Problem 14
+## Problem 14 (Arithmetic)
 
 There are $20$ cities in the County of Newton. Their populations are shown in the bar chart below. The average population of all the cities is indicated by the horizontal dashed line. Which of the following is closest to the total population of all $20$ cities?
 
@@ -127,7 +127,7 @@ $\textbf{(A) }65{,}000 \qquad \textbf{(B) }75{,}000 \qquad \textbf{(C) }85{,}000
 
 ---
 
-## Problem 15
+## Problem 15 (Algebra)
 
 Suppose $15\%$ of $x$ equals $20\%$ of $y.$ What percentage of $x$ is $y?$
 
@@ -135,7 +135,7 @@ $\textbf{(A) }5 \qquad \textbf{(B) }35 \qquad \textbf{(C) }75 \qquad \textbf{(D)
 
 ---
 
-## Problem 16
+## Problem 16 (Algebra)
 
 Each of the points $A,B,C,D,E,$ and $F$ in the figure below represents a different digit from $1$ to $6.$ Each of the five lines shown passes through some of these points. The digits along each line are added to produce five sums, one for each line. The total of the five sums is $47.$ What is the digit represented by B?
 
@@ -145,7 +145,7 @@ $\textbf{(A) }1 \qquad \textbf{(B) }2 \qquad \textbf{(C) }3 \qquad \textbf{(D) }
 
 ---
 
-## Problem 17
+## Problem 17 (Number Theory)
 
 How many factors of $2020$ have more than $3$ factors? (As an example, $12$ has $6$ factors, namely $1, 2, 3, 4, 6,$ and $12.$)
 
@@ -153,7 +153,7 @@ $\textbf{(A) }6 \qquad \textbf{(B) }7 \qquad \textbf{(C) }8 \qquad \textbf{(D) }
 
 ---
 
-## Problem 18
+## Problem 18 (Geometry)
 
 Rectangle $ABCD$ is inscribed in a semicircle with diameter $\overline{FE},$ as shown in the figure. Let $DA=16,$ and let $FD=AE=9.$ What is the area of $ABCD?$
 
@@ -163,7 +163,7 @@ $\textbf{(A) }240 \qquad \textbf{(B) }248 \qquad \textbf{(C) }256 \qquad \textbf
 
 ---
 
-## Problem 19
+## Problem 19 (Number Theory)
 
 A number is called flippy if its digits alternate between two distinct digits. For example, $2020$ and $37373$ are flippy, but $3883$ and $123123$ are not. How many five-digit flippy numbers are divisible by $15?$
 
@@ -171,7 +171,7 @@ $\textbf{(A) }3 \qquad \textbf{(B) }4 \qquad \textbf{(C) }5 \qquad \textbf{(D) }
 
 ---
 
-## Problem 20
+## Problem 20 (Algebra)
 
 A scientist walking through a forest recorded as integers the heights of $5$ trees standing in a row. She observed that each tree was either twice as tall or half as tall as the one to its right. Unfortunately some of her data was lost when rain fell on her notebook. Her notes are shown below, with blanks indicating the missing numbers. Based on her observations, the scientist was able to reconstruct the lost data. What was the average height of the trees, in meters?
 
@@ -188,7 +188,7 @@ $\textbf{(A) }22.2 \qquad \textbf{(B) }24.2 \qquad \textbf{(C) }33.2 \qquad \tex
 
 ---
 
-## Problem 21
+## Problem 21 (Counting & Probability)
 
 A game board consists of $64$ squares that alternate in color between black and white. The figure below shows square $P$ in the bottom row and square $Q$ in the top row. A marker is placed at $P.$ A step consists of moving the marker onto one of the adjoining white squares in the row above. How many $7$-step paths are there from $P$ to $Q?$ (The figure shows a sample path.)
 
@@ -198,7 +198,7 @@ $\textbf{(A) }28 \qquad \textbf{(B) }30 \qquad \textbf{(C) }32 \qquad \textbf{(D
 
 ---
 
-## Problem 22
+## Problem 22 (Number Theory)
 
 When a positive integer $N$ is fed into a machine, the output is a number calculated according to the rule shown below.
 
@@ -214,7 +214,7 @@ $\textbf{(A) }73 \qquad \textbf{(B) }74 \qquad \textbf{(C) }75 \qquad \textbf{(D
 
 ---
 
-## Problem 23
+## Problem 23 (Counting & Probability)
 
 Five different awards are to be given to three students. Each student will receive at least one award. In how many different ways can the awards be distributed?
 
@@ -222,7 +222,7 @@ $\textbf{(A) }120 \qquad \textbf{(B) }150 \qquad \textbf{(C) }180 \qquad \textbf
 
 ---
 
-## Problem 24
+## Problem 24 (Algebra)
 
 A large square region is paved with $n^2$ gray square tiles, each measuring $s$ inches on a side. A border $d$ inches wide surrounds each tile. The figure below shows the case for $n=3$. When $n=24$, the $576$ gray tiles cover $64\%$ of the area of the large square region. What is the ratio $\frac{d}{s}$ for this larger value of $n?$
 
@@ -232,7 +232,7 @@ $\textbf{(A) }\frac6{25} \qquad \textbf{(B) }\frac14 \qquad \textbf{(C) }\frac9{
 
 ---
 
-## Problem 25
+## Problem 25 (Algebra)
 
 Rectangles $R_1$ and $R_2,$ and squares $S_1,\,S_2,\,$ and $S_3,$ shown below, combine to form a rectangle that is 3322 units wide and 2020 units high. What is the side length of $S_2$ in units?
 
@@ -247,12 +247,12 @@ $\textbf{(A) }651 \qquad \textbf{(B) }655 \qquad \textbf{(C) }656 \qquad \textbf
 | Problem | Answer | Problem | Answer | Problem | Answer |
 |---------|--------|---------|--------|---------|--------|
 | 1 | E | 10 | C | 19 | B |
-| 2 | C | 11 | B | 20 | C |
-| 3 | D | 12 | A | 21 | C |
-| 4 | B | 13 | C | 22 | D |
+| 2 | C | 11 | E | 20 | B |
+| 3 | D | 12 | A | 21 | A |
+| 4 | B | 13 | B | 22 | E |
 | 5 | C | 14 | D | 23 | B |
-| 6 | E | 15 | C | 24 | B |
-| 7 | D | 16 | C | 25 | A |
+| 6 | A | 15 | C | 24 | A |
+| 7 | C | 16 | E | 25 | A |
 | 8 | C | 17 | B | | |
 | 9 | D | 18 | A | | |
 

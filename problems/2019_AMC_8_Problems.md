@@ -6,7 +6,7 @@
 
 ---
 
-## Problem 1
+## Problem 1 (Arithmetic)
 
 Ike and Mike go into a sandwich shop with a total of $\$30.00$ to spend. Sandwiches cost $\$4.50$ each and soft drinks cost $\$1.00$ each. Ike and Mike plan to buy as many sandwiches as they can, and use any remaining money to buy soft drinks. Counting both sandwiches and soft drinks, how many items will they buy?
 
@@ -14,7 +14,7 @@ $\textbf{(A) }6\qquad\textbf{(B) }7\qquad\textbf{(C) }8\qquad\textbf{(D) }9\qqua
 
 ---
 
-## Problem 2
+## Problem 2 (Geometry)
 
 Three identical rectangles are put together to form rectangle $ABCD$, as shown in the figure below. Given that the length of the shorter side of each of the smaller rectangles is 5 feet, what is the area in square feet of rectangle $ABCD$?
 
@@ -24,7 +24,7 @@ $\textbf{(A) }45\qquad\textbf{(B) }75\qquad\textbf{(C) }100\qquad\textbf{(D) }12
 
 ---
 
-## Problem 3
+## Problem 3 (Arithmetic)
 
 Which of the following is the correct order of the fractions $\frac{15}{11},\frac{19}{15},$ and $\frac{17}{13},$ from least to greatest?
 
@@ -32,7 +32,7 @@ $\textbf{(A) }\frac{15}{11}< \frac{17}{13}< \frac{19}{15}  \qquad\textbf{(B) }\f
 
 ---
 
-## Problem 4
+## Problem 4 (Geometry)
 
 Quadrilateral $ABCD$ is a rhombus with perimeter $52$ meters. The length of diagonal $\overline{AC}$ is $24$ meters. What is the area in square meters of rhombus $ABCD$?
 
@@ -42,7 +42,7 @@ $\textbf{(A) }60\qquad\textbf{(B) }90\qquad\textbf{(C) }105\qquad\textbf{(D) }12
 
 ---
 
-## Problem 5
+## Problem 5 (Algebra)
 
 A tortoise challenges a hare to a race. The hare eagerly agrees and quickly runs ahead, leaving the slow-moving tortoise behind. Confident that he will win, the hare stops to take a nap. Meanwhile, the tortoise walks at a slow steady pace for the entire race. The hare awakes and runs to the finish line, only to find the tortoise already there. Which of the following graphs matches the description of the race, showing the distance $d$ traveled by the two animals over time $t$ from start to finish?
 
@@ -52,7 +52,7 @@ $\textbf{(A)}\qquad\textbf{(B)}\qquad\textbf{(C)}\qquad\textbf{(D)}\qquad\textbf
 
 ---
 
-## Problem 6
+## Problem 6 (Counting & Probability)
 
 There are $81$ grid points (uniformly spaced) in the square shown in the diagram below, including the points on the edges. Point $P$ is in the center of the square. Given that point $Q$ is randomly chosen among the other $80$ points, what is the probability that the line $PQ$ is a line of symmetry for the square?
 
@@ -62,7 +62,7 @@ $\textbf{(A) }\frac{1}{5}\qquad\textbf{(B) }\frac{1}{4} \qquad\textbf{(C) }\frac
 
 ---
 
-## Problem 7
+## Problem 7 (Arithmetic)
 
 Shauna takes five tests, each worth a maximum of $100$ points. Her scores on the first three tests are $76$, $94$, and $87$. In order to average $81$ for all five tests, what is the lowest score she could earn on one of the other two tests?
 
@@ -70,7 +70,7 @@ $\textbf{(A) }48\qquad\textbf{(B) }52\qquad\textbf{(C) }66\qquad\textbf{(D) }70\
 
 ---
 
-## Problem 8
+## Problem 8 (Arithmetic)
 
 Gilda has a bag of marbles. She gives $20\%$ of them to her friend Pedro. Then Gilda gives $10\%$ of what is left to another friend, Ebony. Finally, Gilda gives $25\%$ of what is now left in the bag to her brother Jimmy. What percentage of her original bag of marbles does Gilda have left for herself?
 
@@ -78,7 +78,7 @@ $\textbf{(A) }20\qquad\textbf{(B) }33\frac{1}{3}\qquad\textbf{(C) }38\qquad\text
 
 ---
 
-## Problem 9
+## Problem 9 (Geometry)
 
 Alex and Felicia each have cats as pets. Alex buys cat food in cylindrical cans that are $6$ cm in diameter and $12$ cm high. Felicia buys cat food in cylindrical cans that are $12$ cm in diameter and $6$ cm high. What is the ratio of the volume of one of Alex's cans to the volume one of Felicia's cans?
 
@@ -86,7 +86,7 @@ $\textbf{(A) }1:4\qquad\textbf{(B) }1:2\qquad\textbf{(C) }1:1\qquad\textbf{(D) }
 
 ---
 
-## Problem 10
+## Problem 10 (Arithmetic)
 
 The diagram shows the number of students at soccer practice each weekday during last week. After computing the mean and median values, Coach discovers that there were actually $21$ participants on Wednesday. Which of the following statements describes the change in the mean and median after the correction is made?
 
@@ -104,7 +104,7 @@ $\textbf{(E) }$ The mean increases by $5$ and the median increases by $5$.
 
 ---
 
-## Problem 11
+## Problem 11 (Counting & Probability)
 
 The third-grade class at Lincoln Elementary School has $93$ students. Each student takes a math class or a foreign language class or both. There are $70$ third graders taking a math class, and there are $54$ third graders taking a foreign language class. How many third graders take *only* a math class and *not* a foreign language class?
 
@@ -112,7 +112,7 @@ $\textbf{(A) }16\qquad\textbf{(B) }23\qquad\textbf{(C) }31\qquad\textbf{(D) }39\
 
 ---
 
-## Problem 12
+## Problem 12 (Geometry)
 
 The faces of a cube are painted in six different colors: red $(R)$, white $(W)$, green $(G)$, brown $(B)$, aqua $(A)$, and purple $(P)$. Three views of the cube are shown below. What is the color of the face opposite the aqua face?
 
@@ -122,7 +122,7 @@ $\textbf{(A) }\text{red}\qquad\textbf{(B) }\text{white}\qquad\textbf{(C) }\text{
 
 ---
 
-## Problem 13
+## Problem 13 (Number Theory)
 
 A *palindrome* is a number that has the same value when read from left to right or from right to left. (For example, 12321 is a palindrome.) Let $N$ be the least three-digit integer which is not a palindrome but which is the sum of three distinct two-digit palindromes. What is the sum of the digits of $N$?
 
@@ -130,7 +130,7 @@ $\textbf{(A) }2\qquad\textbf{(B) }3\qquad\textbf{(C) }4\qquad\textbf{(D) }5\qqua
 
 ---
 
-## Problem 14
+## Problem 14 (Number Theory)
 
 Isabella has $6$ coupons that can be redeemed for free ice cream cones at Pete's Sweet Treats. In order to make the coupons last, she decides that she will redeem one every $10$ days until she has used them all. She knows that Pete's is closed on Sundays, but as she circles the $6$ dates on her calendar, she realizes that no circled date falls on a Sunday. On what day of the week does Isabella redeem her first coupon?
 
@@ -138,7 +138,7 @@ $\textbf{(A) }\text{Monday}\qquad\textbf{(B) }\text{Tuesday}\qquad\textbf{(C) }\
 
 ---
 
-## Problem 15
+## Problem 15 (Counting & Probability)
 
 On a beach, $50$ people are wearing sunglasses and $35$ people are wearing caps. Some people are wearing both sunglasses and caps. If one of the people wearing a cap is selected at random, the probability that this person is also wearing sunglasses is $\frac{2}{5}$. If instead, someone wearing sunglasses is selected at random, what is the probability that this person is also wearing a cap?
 
@@ -146,7 +146,7 @@ $\textbf{(A) }\frac{14}{85}\qquad\textbf{(B) }\frac{7}{25}\qquad\textbf{(C) }\fr
 
 ---
 
-## Problem 16
+## Problem 16 (Algebra)
 
 Qiang drives $15$ miles at an average speed of $30$ miles per hour. How many additional miles will he have to drive at $55$ miles per hour to average $50$ miles per hour for the entire trip?
 
@@ -154,7 +154,7 @@ $\textbf{(A) }45\qquad\textbf{(B) }62\qquad\textbf{(C) }90\qquad\textbf{(D) }110
 
 ---
 
-## Problem 17
+## Problem 17 (Algebra)
 
 What is the value of the product
 $$\left(\frac{1\cdot3}{2\cdot2}\right)\left(\frac{2\cdot4}{3\cdot3}\right)\left(\frac{3\cdot5}{4\cdot4}\right)\cdots\left(\frac{97\cdot99}{98\cdot98}\right)\left(\frac{98\cdot100}{99\cdot99}\right)?$$
@@ -163,7 +163,7 @@ $\textbf{(A) }\frac{1}{2}\qquad\textbf{(B) }\frac{50}{99}\qquad\textbf{(C) }\fra
 
 ---
 
-## Problem 18
+## Problem 18 (Counting & Probability)
 
 The faces of each of two fair dice are numbered 1, 2, 3, 5, 7, and 8. When the two dice are tossed, what is the probability that their sum will be an even number?
 
@@ -171,7 +171,7 @@ $\textbf{(A) }\frac{4}{9}\qquad\textbf{(B) }\frac{1}{2}\qquad\textbf{(C) }\frac{
 
 ---
 
-## Problem 19
+## Problem 19 (Counting & Probability)
 
 In a tournament there are six teams that play each other twice. A team earns $3$ points for a win, $1$ point for a draw, and $0$ points for a loss. After all the games have been played it turns out that the top three teams earned the same number of total points. What is the greatest possible number of total points for each of the top three teams?
 
@@ -179,7 +179,7 @@ $\textbf{(A) }22\qquad\textbf{(B) }23\qquad\textbf{(C) }24\qquad\textbf{(D) }26\
 
 ---
 
-## Problem 20
+## Problem 20 (Algebra)
 
 How many different real numbers $x$ satisfy the equation
 $$(x^{2}-5)^{2}=16?$$
@@ -188,7 +188,7 @@ $\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }4\qqua
 
 ---
 
-## Problem 21
+## Problem 21 (Geometry)
 
 What is the area of the triangle formed by the lines $y=5$, $y=1+x$, and $y=1-x$?
 
@@ -196,7 +196,7 @@ $\textbf{(A) }4\qquad\textbf{(B) }8\qquad\textbf{(C) }10\qquad\textbf{(D) }12\qq
 
 ---
 
-## Problem 22
+## Problem 22 (Algebra)
 
 A store increased the original price of a shirt by a certain percent and then decreased the new price by the same amount. Given that the resulting price was $84\%$ of the original price, by what percent was the price increased and decreased?
 
@@ -204,7 +204,7 @@ $\textbf{(A) }16\qquad\textbf{(B) }20\qquad\textbf{(C) }28\qquad\textbf{(D) }36\
 
 ---
 
-## Problem 23
+## Problem 23 (Algebra)
 
 After Euclid High School's last basketball game, it was determined that $\frac{1}{4}$ of the team's points were scored by Alexa and $\frac{2}{7}$ were scored by Brittany. Chelsea scored $15$ points. None of the other $7$ team members scored more than $2$ points. What was the total number of points scored by the other $7$ team members?
 
@@ -212,7 +212,7 @@ $\textbf{(A) }10\qquad\textbf{(B) }11\qquad\textbf{(C) }12\qquad\textbf{(D) }13\
 
 ---
 
-## Problem 24
+## Problem 24 (Geometry)
 
 In triangle $ABC$, point $D$ divides side $\overline{AC}$ so that $AD:DC=1:2$. Let $E$ be the midpoint of $\overline{BD}$ and let $F$ be the point of intersection of line $BC$ and line $AE$. Given that the area of $\triangle ABC$ is $360$, what is the area of $\triangle EBF$?
 
@@ -222,7 +222,7 @@ $\textbf{(A) }24\qquad\textbf{(B) }30\qquad\textbf{(C) }32\qquad\textbf{(D) }36\
 
 ---
 
-## Problem 25
+## Problem 25 (Counting & Probability)
 
 Alice has 24 apples. In how many ways can she share them with Becky and Chris so that each of the three people has at least two apples?
 
